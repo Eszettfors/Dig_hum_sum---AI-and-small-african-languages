@@ -1,0 +1,1 @@
+# Dig_hum_sum---AI-and-small-african-languages
