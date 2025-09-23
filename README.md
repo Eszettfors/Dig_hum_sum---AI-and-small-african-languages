@@ -14,6 +14,6 @@ This repository contains the code written to analyze linguistic representation o
 
 
 ### dependencies
-See requirements.txt for python\n
-See renv.lock for R
+- See requirements.txt for python
+- See renv.lock for R
 
