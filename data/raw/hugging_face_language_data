@@ -1,0 +1,4884 @@
+language,iso,datasets,models
+"English
+							English",en,32468,242636
+French,fra,3078,1974
+"Chinese
+							中文",zh,3014,14604
+"French
+							Français",fr,2075,12818
+"Spanish
+							Español",es,1975,11695
+"Russian
+							Русский",ru,1915,7167
+"Japanese
+							日本語",ja,1724,9752
+English,eng,1690,1149
+"German
+							Deutsch",de,1651,11479
+"Korean
+							한국어",ko,1391,9349
+"Portuguese
+							Português",pt,1350,8983
+"Arabic
+							اللغة العربية",ar,1321,5630
+"Italian
+							Italiano",it,1189,9034
+"Vietnamese
+							Tiếng Việt",vi,1149,4084
+"Turkish
+							Türkçe",tr,1053,4170
+"Hindi
+							हिन्दी",hi,1002,6563
+"Indonesian
+							Bahasa Indonesia",id,888,4192
+"Dutch
+							Nederlands",nl,768,3487
+"Polish
+							język polski",pl,765,4072
+"Persian
+							فارسی",fa,705,2620
+"Thai
+							ไทย",th,704,4969
+"Czech
+							čeština",cs,681,2596
+"Bengali
+							বাংলা",bn,668,2445
+"Swedish
+							Svenska",sv,620,2811
+Spanish,spa,620,938
+German,deu,606,916
+"Romanian
+							Română",ro,585,2988
+"Catalan
+							Català",ca,584,1799
+"Tamil
+							தமிழ்",ta,569,1994
+"Finnish
+							suomi",fi,563,2580
+"Greek
+							Ελληνικά",el,553,2084
+"Danish
+							dansk",da,551,2048
+"Ukrainian
+							Українська",uk,550,2706
+"Hungarian
+							magyar",hu,524,1861
+"Telugu
+							తెలుగు",te,473,1669
+"Bulgarian
+							български език",bg,465,1783
+"Basque
+							euskara",eu,433,1335
+"Estonian
+							eesti",et,432,1534
+"Urdu
+							اردو",ur,429,1784
+"Marathi
+							मराठी",mr,408,1617
+"Slovenian
+							slovenski jezik",sl,405,1525
+"Hebrew
+							עברית",he,400,2085
+"Slovak
+							slovenčina",sk,399,1480
+"Malayalam
+							മലയാളം",ml,390,1524
+"Lithuanian
+							lietuvių kalba",lt,380,1421
+"Swahili
+							Kiswahili",sw,376,1613
+"Malay
+							Bahasa Malaysia",ms,370,2122
+"Latvian
+							latviešu valoda",lv,369,1354
+Italian,ita,366,912
+"Croatian
+							Hrvatski",hr,363,1417
+"Gujarati
+							ગુજરાતી",gu,332,1527
+Indonesian,ind,331,46
+"Serbian
+							српски језик",sr,321,1715
+"Kannada
+							ಕನ್ನಡ",kn,318,1385
+Portuguese,por,303,914
+"Norwegian
+							Norsk",no,301,1623
+"Breton
+							brezhoneg",br,288,666
+"Amharic
+							አማርኛ",am,283,1183
+"Panjabi
+							ਪੰਜਾਬੀ",pa,278,1346
+Russian,rus,275,931
+"Nepali
+							नेपाली",ne,268,2407
+"Icelandic
+							Íslenska",is,266,1298
+"Azerbaijani
+							azərbaycan dili",az,261,1018
+"Irish
+							Gaeilge",ga,259,1027
+"Maltese
+							Malti",mt,254,898
+"Kazakh
+							қазақ тілі",kk,254,1090
+"Burmese
+							ဗမာစာ",my,249,1481
+"Afrikaans
+							Afrikaans",af,249,1164
+"Oriya
+							ଓଡ଼ିଆ",or,239,926
+"Hausa
+							هَوُسَ",ha,238,1118
+"Yoruba
+							Yorùbá",yo,238,990
+"Galician
+							galego",gl,235,1407
+"Macedonian
+							македонски јазик",mk,229,1107
+"Assamese
+							অসমীয়া",as,221,1157
+Vietnamese,vie,221,915
+"Welsh
+							Cymraeg",cy,219,1110
+Dutch,nld,219,37
+"Albanian
+							Shqip",sq,217,998
+"Sinhala
+							සිංහල",si,216,1095
+"Uzbek
+							Ўзбек",uz,216,1006
+"Tagalog
+							Wikang Tagalog",tl,211,1383
+Polish,pol,210,34
+"Georgian
+							ქართული",ka,205,1140
+"Igbo
+							Asụsụ Igbo",ig,198,698
+"Armenian
+							Հայերեն",hy,195,1065
+"Latin
+							latine",la,193,906
+"Belarusian
+							беларуская мова",be,192,1058
+Thai,tha,189,950
+Arabic,ara,185,943
+"Sanskrit
+							संस्कृतम्",sa,183,797
+Japanese,jpn,183,921
+"Esperanto
+							Esperanto",eo,180,729
+Cebuano,ceb,179,521
+"Khmer
+							ខេមរភាសា",km,174,1350
+Chinese,zho,173,941
+"Norwegian Bokmål
+							Norsk bokmål",nb,169,441
+"Mongolian
+							Монгол хэл",mn,167,1125
+"Javanese
+							basa Jawa",jv,163,1094
+"Zulu
+							isiZulu",zu,163,626
+Yue Chinese,yue,159,316
+"Kyrgyz
+							Кыргызча",ky,156,747
+"Somali
+							Soomaaliga",so,151,926
+"Kinyarwanda
+							Ikinyarwanda",rw,150,469
+Korean,kor,148,908
+"Pashto
+							پښتو",ps,147,823
+"Tatar
+							татар теле",tt,147,483
+"Wolof
+							Wollof",wo,147,504
+"Xhosa
+							isiXhosa",xh,146,856
+"Norwegian Nynorsk
+							Norsk nynorsk",nn,143,635
+Javanese,jav,141,31
+"Bosnian
+							bosanski jezik",bs,140,881
+"Lao
+							ພາສາ",lo,135,1302
+"Divehi
+							Dhivehi",dv,134,412
+"Ganda
+							Luganda",lg,132,488
+"Occitan
+							occitan",oc,131,567
+"Sindhi
+							सिन्धी",sd,131,858
+"Kurdish
+							Kurdî",ku,130,658
+Persian,fas,130,27
+Minangkabau,min,129,192
+Central Kurdish,ckb,128,170
+Romanian,ron,128,27
+Hindi,hin,127,34
+"Uyghur
+							ئۇيغۇرچە‎",ug,126,484
+Pedi,nso,126,330
+Maithili,mai,124,216
+Burmese,mya,124,25
+"Tajik
+							тоҷикӣ",tg,123,586
+"Sundanese
+							Basa Sunda",su,121,1069
+Swiss German,gsw,120,104
+"Twi
+							Twi",tw,118,299
+"Scottish Gaelic
+							Gàidhlig",gd,115,644
+"Luxembourgish
+							Lëtzebuergesch",lb,114,650
+Marathi,mar,114,98
+"Afar
+							Afaraf",aa,113,546
+"Tibetan
+							བོད་ཡིག",bo,112,471
+Sundanese,sun,112,26
+Asturian,ast,112,210
+Turkish,tur,112,30
+"Haitian
+							Kreyòl ayisyen",ht,111,680
+"Guaraní
+							Avañe'ẽ",gn,110,289
+Iloko,ilo,110,230
+"Shona
+							chiShona",sn,109,698
+"Bambara
+							bamanankan",bm,109,415
+Bengali,ben,108,26
+Danish,dan,106,28
+Tamil,tam,106,32
+Manipuri,mni,106,168
+Swedish,swe,104,32
+Egyptian Arabic,arz,104,129
+"Malagasy
+							fiteny malagasy",mg,103,806
+Achinese,ace,102,158
+"Kashmiri
+							कश्मीरी",ks,102,205
+"Western Frisian
+							Frysk",fy,102,567
+Waray (Philippines),war,102,230
+Modern Greek (1453-),ell,101,31
+"Lingala
+							Lingála",ln,101,671
+"Tigrinya
+							ትግርኛ",ti,101,256
+Kabyle,kab,100,110
+"Turkmen
+							Türkmen",tk,99,410
+"Bashkir
+							башҡорт теле",ba,99,509
+Buginese,bug,98,95
+Filipino,fil,98,217
+"Tswana
+							Setswana",tn,98,400
+Santali,sat,98,109
+Finnish,fin,97,29
+Mandarin Chinese,cmn,94,24
+Khmer,khm,94,26
+Banjar,bjn,93,78
+Yoruba,yor,93,60
+"Yiddish
+							ייִדיש",yi,92,746
+Telugu,tel,92,30
+"Faroese
+							føroyskt",fo,92,497
+Hungarian,hun,91,28
+"Chichewa
+							chiCheŵa",ny,91,462
+Urdu,urd,91,26
+Balinese,ban,90,188
+Tagalog,tgl,90,20
+"Chuvash
+							чӑваш чӗлхи",cv,89,163
+"Abkhaz
+							аҧсуа бызшәа",ab,89,245
+Malayalam,mal,88,26
+"Southern Sotho
+							Sesotho",st,87,401
+"Akan
+							Akan",ak,85,398
+"Māori
+							te reo Māori",mi,85,511
+Bhojpuri,bho,85,182
+Gujarati,guj,85,28
+Galician,glg,84,27
+Wolof,wol,84,44
+"Ewe
+							Eʋegbe",ee,84,231
+Hausa,hau,84,60
+Kannada,kan,84,25
+"Yakut
+							саха тыла",sah,83,103
+Panjabi,pan,83,25
+Shan,shn,83,153
+Moroccan Arabic,ary,81,137
+Ligurian,lij,81,117
+Lithuanian,lit,80,26
+Vlaams,vls,80,24
+Amharic,amh,80,39
+Crimean Tatar,crh,79,152
+Ukrainian,ukr,78,29
+Venetian,vec,77,183
+Pangasinan,pag,76,194
+Lao,lao,76,25
+Xhosa,xho,75,30
+Igbo,ibo,75,49
+Awadhi,awa,75,176
+"Tsonga
+							Xitsonga",ts,75,334
+Fon,fon,75,326
+Czech,ces,74,28
+Tok Pisin,tpi,74,137
+Upper Sorbian,hsb,74,43
+Croatian,hrv,74,21
+"Interlingua
+							Interlingua",ia,74,60
+"Oromo
+							Afaan Oromoo",om,73,449
+"Limburgish
+							Limburgs",li,73,161
+"Sardinian
+							sardu",sc,73,167
+Northern Kurdish,kmr,72,81
+Luo (Kenya and Tanzania),luo,72,125
+Bulgarian,bul,72,27
+Sicilian,scn,71,141
+South Azerbaijani,azb,71,78
+Serbian,srp,71,29
+Afrikaans,afr,71,34
+Friulian,fur,71,115
+Lombard,lmo,70,118
+"Quechua
+							Runa Simi",qu,70,486
+Zulu,zul,69,56
+Somali,som,69,29
+"Eastern Mari
+							олык марий",mhr,69,17
+Nigerian Pidgin,pcm,68,106
+Picard,pcd,68,14
+Malay (individual language),zlm,68,3
+Tosk Albanian,als,68,80
+Papiamento,pap,68,200
+Latgalian,ltg,67,140
+Tumbuka,tum,67,235
+Goan Konkani,gom,67,106
+"Chamorro
+							Chamoru",ch,66,156
+Silesian,szl,66,112
+Hebrew,heb,65,27
+"Kirundi
+							Ikirundi",rn,65,344
+Odia,ory,65,81
+"Erzya
+							эрзянь кель",myv,65,100
+"Kikuyu
+							Gĩkũyũ",ki,65,262
+Mossi,mos,64,130
+Nepali (individual language),npi,64,79
+Armenian,hye,64,27
+Catalan,cat,64,33
+Slovenian,slv,64,27
+Kinyarwanda,kin,63,22
+Swahili (individual language),swh,63,78
+"Aragonese
+							aragonés",an,63,141
+"Swati
+							SiSwati",ss,62,230
+Assamese,asm,62,17
+Ganda,lug,62,54
+Swahili (macrolanguage),swa,62,53
+Shona,sna,62,29
+"Samoan
+							gagana fa'a Samoa",sm,61,265
+Low German,nds,61,48
+Tetum,tet,61,89
+"Romansh
+							rumantsch grischun",rm,61,144
+"Chechen
+							нохчийн мотт",ce,60,147
+Chhattisgarhi,hne,60,177
+Nyanja,nya,59,26
+Lingala,lin,59,23
+Madurese,mad,59,85
+"Kongo
+							Kikongo",kg,58,191
+Dyula,dyu,58,155
+Pampanga,pam,58,92
+Bemba (Zambia),bem,58,125
+Slovak,slk,58,28
+"Udmurt
+							удмурт кыл",udm,57,91
+"Ido
+							Ido",io,57,46
+Icelandic,isl,56,28
+"Dzongkha
+							རྫོང་ཁ",dz,56,180
+Kirghiz,kir,56,19
+Iranian Persian,pes,56,79
+Georgian,kat,56,27
+Moksha,mdf,56,84
+Lushai,lus,56,159
+"Ossetian
+							ирон æвзаг",os,55,118
+"Kabardian
+							Адыгэбзэ КIахэ",kbd,55,104
+Umbundu,umb,55,128
+Kabiyè,kbp,55,159
+Western Mari,mrj,55,87
+Sanskrit,san,55,19
+Kamba (Kenya),kam,55,114
+Kabuverdianu,kea,54,150
+Irish,gle,54,21
+"Corsican
+							corsu",co,54,246
+Welsh,cym,54,26
+Ayacucho Quechua,quy,53,137
+Norwegian Bokmål,nob,53,53
+Sindhi,snd,52,35
+"Aymara
+							aymar aru",ay,52,131
+Malay (macrolanguage),msa,52,41
+"Fijian
+							Vakaviti",fj,52,191
+Magahi,mag,52,177
+Belarusian,bel,52,26
+Standard Malay,zsm,51,82
+Bavarian,bar,51,47
+Hawaiian,haw,51,363
+Haitian,hat,51,25
+"Sango
+							yângâ tî sängö",sg,50,189
+Latin,lat,49,26
+Tajik,tgk,49,24
+Standard Arabic,arb,49,7
+Macedonian,mkd,48,25
+"Cornish
+							Kernewek",kw,48,97
+Maltese,mlt,48,28
+Sinhala,sin,48,21
+"Walloon
+							walon",wa,48,103
+Basque,eus,47,24
+Oromo,orm,47,21
+Tuvinian,tyv,47,91
+"Volapük
+							Volapük",vo,47,34
+Southern Sotho,sot,46,30
+"Fula
+							Fulfulde",ff,46,200
+Kazakh,kaz,46,27
+Newari,new,46,96
+Standard Moroccan Tamazight,zgh,46,20
+Karachay-Balkar,krc,46,87
+Estonian,est,45,29
+Kachin,kac,45,143
+"Interlingue
+							Interlingue",ie,45,26
+"Avaric
+							авар мацӀ",av,45,166
+Chavacano,cbk,45,87
+Levantine Arabic,apc,45,72
+Tswana,tsn,45,38
+Twi,twi,45,44
+"Bihari
+							भोजपुरी",bh,45,57
+"Komi
+							коми кыв",kv,45,108
+Luxembourgish,ltz,45,25
+Piemontese,pms,44,40
+Arpitan,frp,44,83
+North Azerbaijani,azj,44,78
+Lojban,jbo,44,11
+"Manx
+							Gaelg",gv,44,127
+Albanian,sqi,44,24
+Ewe,ewe,44,33
+Wu Chinese,wuu,43,10
+Luba-Lulua,lua,43,111
+Western Panjabi,pnb,43,27
+Dari,prs,43,101
+Tunisian Arabic,aeb,42,81
+Lezghian,lez,42,17
+Esperanto,epo,42,20
+"Tonga
+							faka Tonga",to,42,99
+Occitan (post 1500),oci,42,17
+Scots,sco,42,59
+Central Atlas Tamazight,tzm,42,92
+Latvian,lav,42,30
+Tigrinya,tir,42,13
+"Venda
+							Tshivenḓa",ve,42,110
+"Avestan
+							avesta",ae,42,157
+Central Bikol,bcl,42,38
+Neapolitan,nap,41,24
+Southwestern Dinka,dik,41,78
+Bambara,bam,41,35
+Hakha Chin,cnh,41,82
+Veps,vep,41,19
+Sranan Tongo,srn,40,103
+Plateau Malagasy,plt,40,75
+Lower Sorbian,dsb,40,19
+Tsonga,tso,40,13
+"Northern Sami
+							Davvisámegiella",se,40,117
+Bosnian,bos,40,23
+Bishnupriya,bpy,40,28
+Tamasheq,taq,40,92
+Bodo (India),brx,40,102
+Maori,mri,40,23
+Russia Buriat,bxr,40,17
+Old English (ca. 450-1100),ang,39,89
+Standard Latvian,lvs,39,73
+Nuer,nus,39,86
+Hiligaynon,hil,39,98
+Jamaican Creole English,jam,38,91
+Kara-Kalpak,kaa,38,154
+Najdi Arabic,ars,38,67
+Min Nan Chinese,nan,38,34
+Gilaki,glk,38,20
+Uighur,uig,38,16
+Kimbundu,kmb,38,164
+Kashubian,csb,38,15
+West Central Oromo,gaz,38,73
+Eastern Yiddish,ydd,37,71
+Mingrelian,xmf,37,18
+Pushto,pus,37,26
+Chokwe,cjk,37,162
+Uzbek,uzb,37,34
+Mazanderani,mzn,37,18
+Southern Pashto,pbt,37,73
+Komi-Permyak,koi,37,73
+Nepali (macrolanguage),nep,37,29
+Kalmyk,xal,37,84
+Northern Uzbek,uzn,36,76
+Saraiki,skr,36,86
+Kikuyu,kik,36,7
+"Bislama
+							Bislama",bi,35,153
+Batak Toba,bbc,35,72
+Norwegian,nor,35,32
+Malagasy,mlg,35,31
+Swati,ssw,35,13
+Central Kanuri,knc,35,76
+Mirandese,mwl,35,22
+Central Aymara,ayr,35,70
+Cherokee,chr,35,75
+Tibetan,bod,35,14
+Tetun Dili,tdt,35,5
+Rusyn,rue,35,19
+Kurdish,kur,35,23
+Scottish Gaelic,gla,35,16
+Nigerian Fulfulde,fuv,35,71
+Hakka Chinese,hak,35,9
+"Kalaallisut
+							kalaallisut",kl,34,90
+Halh Mongolian,khk,34,73
+Dimli (individual language),diq,34,21
+"Inuktitut
+							ᐃᓄᒃᑎᑐᑦ",iu,34,87
+Gothic,got,33,16
+Kölsch,ksh,33,20
+Northern Frisian,frr,33,25
+Tatar,tat,33,19
+"Navajo
+							Diné bizaad",nv,33,85
+Ta'izzi-Adeni Arabic,acq,32,68
+Ladin,lld,32,22
+Vlax Romani,rmy,32,18
+"Old Church Slavonic
+							ѩзыкъ словѣньскъ",cu,32,38
+Mongolian,mon,32,29
+Azerbaijani,aze,32,55
+Kashmiri,kas,32,15
+Fiji Hindi,hif,32,90
+Ladino,lad,32,21
+Gorontalo,gor,32,86
+Wayuu,guc,32,75
+K'iche',quc,31,74
+Mon,mnw,31,77
+Basa (Cameroon),bas,31,87
+Ancient Greek (to 1453),grc,31,126
+"Literary Chinese
+							文言",lzh,31,46
+Norwegian Nynorsk,nno,31,19
+Akan,aka,31,13
+Livvi,olo,31,6
+Saterfriesisch,stq,30,85
+"Adyghe
+							Адыгэбзэ Къэбэрдей",ady,30,77
+Faroese,fao,30,16
+Extremaduran,ext,30,18
+Toki Pona,tok,30,14
+Rundi,run,30,31
+Lingua Franca Nova,lfn,30,9
+Pennsylvania German,pdc,30,20
+Sango,sag,29,12
+Dinka,din,29,89
+Venda,ven,29,12
+Novial,nov,29,7
+Gagauz,gag,29,76
+Makasar,mak,29,81
+Mesopotamian Arabic,acm,29,69
+"Tahitian
+							Reo Tahiti",ty,29,32
+Macedo-Romanian,rup,28,18
+Tachelhit,shi,28,20
+Tulu,tcy,28,79
+Samoan,smo,28,13
+Fulah,ful,28,11
+Zeeuws,zea,28,22
+Tigre,tig,28,20
+Betawi,bew,27,74
+Võro,vro,27,7
+Gan Chinese,gan,27,3
+Bashkir,bak,27,16
+Turkmen,tuk,27,16
+Kekchí,kek,27,73
+Pfaelzisch,pfl,27,19
+Dotyali,dty,27,6
+Breton,bre,26,15
+"Zhuang
+							Saɯ cueŋƅ",za,26,93
+Tonga (Tonga Islands),ton,26,7
+Min Dong Chinese,cdo,26,9
+Ingush,inh,26,9
+Mam,mam,26,75
+"Pāli
+							पाऴि",pi,26,23
+Mapudungun,arn,26,67
+Oriya (macrolanguage),ori,26,8
+"Marshallese
+							Kajin M̧ajeļ",mh,26,115
+"Cree
+							ᓀᐦᐃᔭᐍᐏᐣ",cr,26,35
+Dogri (macrolanguage),doi,25,30
+Fijian,fij,25,6
+Official Aramaic (700-300 BCE),arc,25,23
+"Kanuri
+							Kanuri",kr,25,65
+Nias,nia,25,84
+Northern Luri,lrc,25,81
+Serbo-Croatian,hbs,24,30
+Algerian Arabic,arq,24,5
+Dzongkha,dzo,24,6
+Lak,lbe,24,10
+Sardinian,srd,24,6
+"Inupiaq
+							Iñupiaq",ik,24,26
+Makhuwa,vmw,24,15
+Votic,vot,24,17
+Western Armenian,hyw,23,15
+Ngaju,nij,23,80
+Dagbani,dag,23,10
+Acoli,ach,23,85
+N'Ko,nqo,23,17
+Kaqchikel,cak,23,76
+Assyrian Neo-Aramaic,aii,23,4
+Northern Sami,sme,23,20
+Cheyenne,chy,22,7
+Samogitian,sgs,22,16
+Masbatenyo,msb,22,66
+Pontic,pnt,22,10
+Choctaw,cho,22,2
+Western Frisian,fry,22,32
+Yiddish,yid,22,23
+Atikamekw,atj,22,7
+Southern Altai,alt,22,78
+"Nuosu
+							ꆈꌠ꒿ Nuosuhxop",ii,22,23
+Zacatlán-Ahuacatlán-Tepetzintla Nahuatl,nhi,22,6
+Kadazan Dusun,dtp,22,81
+Bislama,bis,22,4
+Zarma,dje,22,76
+Amis,ami,21,26
+North Ndebele,nde,21,7
+Krio,kri,21,90
+Guarani,grn,21,16
+Karelian,krl,21,16
+Nyankole,nyn,21,24
+Ga,gaa,21,28
+Creek,mus,21,2
+Mamasa,mqj,21,11
+Lole,llg,21,2
+Kagayanen,cgc,21,16
+Hmong,hmn,21,149
+Chuukese,chk,21,74
+"Hiri Motu
+							Hiri Motu",ho,21,91
+Fanti,fat,20,4
+"Kwanyama
+							Kuanyama",kj,20,104
+Angika,anp,20,18
+Inari Sami,smn,20,23
+Kongo,kon,20,11
+Eastern Huasteca Nahuatl,nhe,20,73
+Mamara Senoufo,myk,20,9
+Cashibo-Cacataibo,cbr,20,2
+Eastern Tamang,taj,20,71
+Coptic,cop,20,33
+Huastec,hus,20,72
+Asháninka,cni,20,72
+Shipibo-Conibo,shp,20,68
+Cusco Quechua,quz,20,4
+Liv,liv,19,16
+Pitcairn-Norfolk,pih,19,17
+Kupang Malay,mkn,19,69
+Iban,iba,19,85
+Nyungwe,nyu,19,70
+Teso,teo,19,78
+Susu,sus,19,72
+Huichol,hch,19,7
+"Southern Ndebele
+							isiNdebele",nr,19,96
+Huallaga Huánuco Quechua,qub,19,68
+Shuar,jiv,19,67
+Musi,mui,19,3
+Warlpiri,wbp,19,7
+"Nauru
+							Ekakairũ Naoero",na,19,26
+Wolaytta,wal,19,96
+Eastern Maroon Creole,djk,19,88
+Aguaruna,agr,19,68
+Limburgan,lim,19,8
+Central Mazahua,maz,18,72
+Rejang,rej,18,16
+Western Niger Fulfulde,fuh,18,3
+Roviana,rug,18,12
+Naasioi,nas,18,6
+Guerrero Amuzgo,amu,18,72
+Kamano,kbq,18,2
+Dhao,nfa,18,2
+Bribri,bzd,18,8
+South Bolivian Quechua,quh,18,67
+Chachi,cbi,18,2
+Mi'kmaq,mic,18,7
+Undetermined,und,18,56
+South Ndebele,nbl,18,7
+Achuar-Shiwiar,acu,18,2
+Khasi,kha,18,86
+Garifuna,cab,18,75
+Sediq,trv,18,21
+Mezquital Otomi,ote,18,6
+Pular,fuf,18,4
+Kâte,kmg,18,5
+Ghomálá',bbj,18,31
+Tzotzil,tzo,18,76
+Papantla Totonac,top,18,4
+Yanesha',ame,18,6
+Komi-Zyrian,kpv,18,6
+Lugbara,lgg,18,13
+Haryanvi,bgc,18,3
+Guianese Creole French,gcr,18,7
+S'gaw Karen,ksw,18,67
+Chamorro,cha,18,2
+Kanite,kmu,18,6
+Soninke,snk,18,3
+Ancient Hebrew,hbo,18,16
+Halia,hla,18,12
+Jèrriais,nrf,18,3
+Ticuna,tca,18,67
+Benabena,bef,18,6
+Saint Lucian Creole French,acf,18,86
+Suba,sxb,18,10
+"Ndonga
+							Owambo",ng,18,21
+Highland Oaxaca Chontal,chd,18,3
+Bora,boa,17,2
+Saramaccan,srm,17,87
+Yapese,yap,17,74
+Binumarien,bjr,17,6
+Highland Puebla Nahuatl,azz,17,9
+Tojolabal,toj,17,71
+Seselwa Creole French,crs,17,97
+Hiri Motu,hmo,17,2
+Inoke-Yate,ino,17,6
+Helong,heg,17,2
+Gapapaiwa,pwg,17,12
+Northern Conchucos Ancash Quechua,qxn,17,2
+Whitesands,tnp,17,2
+Romansh,roh,17,7
+Sharanahua,mcd,17,2
+Baikeno,bkx,17,1
+Arabela,arl,17,2
+Huamalíes-Dos de Mayo Huánuco Quechua,qvh,17,1
+Morisyen,mfe,17,95
+Waris,wrs,17,2
+Rotokas,roo,17,2
+Saposa,sps,17,12
+Southwest Tanna,nwi,17,12
+Carpathian Romani,rmc,17,69
+Lambayeque Quechua,quf,17,66
+Kankanaey,kne,17,11
+Makonde,kde,17,3
+Cashinahua,cbs,17,2
+Luang,lex,17,12
+Motu,meu,17,67
+Margos-Yarowilca-Lauricocha Quechua,qvm,17,2
+Kenga,kyq,17,7
+Miahuatlán Zapotec,zam,17,7
+South Tairora,omw,17,5
+Guadeloupean Creole French,gcf,17,24
+Central Bontok,lbk,17,2
+Siyin Chin,csy,17,6
+Ditammari,tbz,17,75
+Pohnpeian,pon,17,81
+Kamasau,kms,17,2
+Nehan,nsn,17,11
+Siona,snn,17,2
+Sabu,hvn,17,77
+Apurinã,apu,17,7
+Chuvash,chv,17,9
+Bambam,ptu,17,11
+Romany,rom,17,83
+North Tanna,tnn,17,2
+Sarangani Blaan,bps,16,11
+Dedua,ded,16,5
+Awa (Papua New Guinea),awb,16,6
+Central Cagayan Agta,agt,16,2
+Amarasi,aaz,16,2
+Kotava,avk,16,7
+Mari (Russia),chm,16,88
+Zaiwa,atb,16,2
+Baatonum,bba,16,8
+Mansaka,msk,16,2
+Balantak,blz,16,11
+Koronadal Blaan,bpr,16,11
+Yao,yao,16,5
+Atayal,tay,16,8
+Agutaynen,agn,16,11
+Malvi,mup,16,2
+Sarangani Manobo,mbs,16,2
+Matigsalug Manobo,mbt,16,82
+Sena,seh,16,77
+Farefare,gur,16,9
+Kenyang,ken,16,8
+Dhangu-Djangu,dhg,16,2
+Alune,alp,16,12
+Akoose,bss,16,10
+Ata Manobo,atd,16,2
+Fataleka,far,16,12
+Candoshi-Shapra,cbu,16,2
+Guerrero Nahuatl,ngu,16,75
+Dhivehi,div,16,9
+Murui Huitoto,huu,16,1
+Ese Ejja,ese,16,2
+Yawa,yva,16,2
+Bisu,bzi,16,3
+Limos Kalinga,kmk,16,2
+Konkani (macrolanguage),kok,16,26
+Burarra,bvr,16,2
+Chayahuita,cbt,16,2
+Kwaio,kwd,16,2
+Yucateco,yua,16,78
+Yagua,yad,16,2
+Kriol,rop,16,17
+Caribbean Hindustani,hns,16,16
+Paiwan,pwn,16,8
+Narom,nrm,16,3
+Colorado,cof,16,2
+Binukid,bkd,16,2
+Central Mnong,cmo,16,11
+Boko (Benin),bqc,16,74
+Gun,guw,16,36
+Kalaallisut,kal,16,7
+Cajamarca Quechua,qvc,16,66
+Tagabawa,bgs,16,2
+Mbyá Guaraní,gun,16,3
+Middle English (1100-1500),enm,16,17
+Balangao,blw,16,2
+Nomatsiguenga,not,16,6
+Sirionó,srq,16,6
+Ottoman Turkish (1500-1928),ota,16,16
+Waorani,auc,16,2
+Casiguran Dumagat Agta,dgc,16,3
+Nunggubuyu,nuy,16,6
+Guarayu,gyr,16,6
+Western Bukidnon Manobo,mbb,16,17
+Ixil,ixl,16,7
+Jarai,jra,16,3
+Obo Manobo,obo,16,17
+Arosi,aia,16,12
+Toma,tod,16,3
+Corsican,cos,16,9
+Mundurukú,myu,16,7
+Tyap,kcg,16,4
+Bolinao,smk,16,10
+Pamplona Atta,att,16,2
+Ngäbere,gym,16,71
+Guanano,gvc,16,4
+Mitla Zapotec,zaw,16,2
+Central Huasteca Nahuatl,nch,16,6
+Chol,ctu,16,71
+Eastern Apurímac Quechua,qve,16,6
+Highland Popoluca,poi,15,2
+Ewondo,ewo,15,3
+Highland Totonac,tos,15,3
+Manx,glv,15,12
+Dadibi,mps,15,67
+Ido,ido,15,6
+Tabo,knv,15,2
+Ambulas,abt,15,67
+Tetelcingo Nahuatl,nhg,15,7
+Kuanua,ksd,15,67
+Zyphe Chin,zyp,15,6
+Interlingua (International Auxiliary Language Association),ina,15,12
+Totontepec Mixe,mto,15,2
+Limbu,lif,15,6
+Dobu,dob,15,12
+Urarina,ura,15,2
+Thado Chin,tcz,15,2
+Cofán,con,15,2
+Lukpa,dop,15,11
+Guambiano,gum,15,2
+Hmong Njua,hnj,15,7
+Ossetian,oss,15,7
+Mwani,wmw,15,10
+Sunwar,suz,15,71
+Yele,yle,15,2
+Chácobo,cao,15,2
+Muyuw,myw,15,12
+Carrier,crx,15,6
+Algonquin,alq,15,6
+Binandere,bhg,15,2
+Iamalele,yml,15,12
+Ika,ikk,15,3
+Doromu-Koki,kqc,15,2
+Central Sama,sml,15,16
+Bunama,bdd,15,2
+Mag-antsi Ayta,sgb,15,11
+Ambai,amk,15,12
+Secoya,sey,15,2
+Huautla Mazatec,mau,15,6
+Aragonese,arg,15,10
+Makhuwa-Meetto,mgh,15,70
+Uduk,udu,15,7
+Yaqui,yaq,15,6
+Sinaugoro,snc,15,12
+Kisar,kje,15,12
+Achi,acr,15,6
+Isthmus Zapotec,zai,15,5
+Borong,ksr,15,5
+Paranan,prf,15,11
+Dela-Oenale,row,15,2
+Tz'utujil,tzj,15,71
+San Blas Kuna,cuk,15,71
+Iduna,viv,15,12
+Yaminahua,yaa,15,2
+Yine,pib,15,6
+Kanuri,kau,15,14
+Huaylas Ancash Quechua,qwh,15,2
+Matu Chin,hlt,15,6
+San Marcos Tlacoyalco Popoloca,pls,15,6
+Huambisa,hub,15,2
+Akawaio,ake,15,2
+Awa-Cuaiquer,kwi,15,67
+Skolt Sami,sms,15,4
+Zapotec,zap,15,73
+Caluyanun,clu,15,2
+Alamblak,amp,15,1
+Camsá,kbh,15,3
+Anindilyakwa,aoi,15,2
+Akha,ahk,15,71
+Lango (Uganda),laj,15,68
+Huaylla Wanca Quechua,qvw,15,2
+Poqomchi',poh,15,6
+Somba-Siawari,bmu,15,6
+Manambu,mle,15,1
+Galibi Carib,car,15,2
+Gwichʼin,gwi,15,6
+Inabaknon,abx,15,1
+Soga,xog,15,10
+Maung,mph,15,2
+Pele-Ata,ata,15,2
+Talysh,tly,15,14
+Eastern Bolivian Guaraní,gui,15,67
+Yakan,yka,15,2
+Daga,dgz,15,2
+Southeastern Puebla Nahuatl,npl,15,6
+Mutu,tuc,15,77
+Kosraean,kos,15,67
+Mountain Koiali,kpx,15,2
+Pamona,pmf,15,11
+Cubeo,cub,15,2
+Western Huasteca Nahuatl,nhw,15,6
+Caquinte,cot,15,5
+Belize Kriol English,bzj,15,86
+Navajo,nav,15,4
+Abkhazian,abk,15,11
+Adangme,ada,15,70
+Klingon,tlh,15,73
+Tboli,tbl,15,17
+Northern Puebla Nahuatl,ncj,15,6
+Ringgou,rgu,15,2
+Huli,hui,15,71
+Bine,bon,15,2
+Yosondúa Mixtec,mpm,15,6
+Amarakaeri,amr,15,2
+North Junín Quechua,qvn,15,2
+Sea Island Creole English,gul,15,7
+Mufian,aoj,15,2
+Matsés,mcf,15,2
+Oksapmin,opm,15,6
+San Martín Quechua,qvs,15,2
+Luguru,ruf,15,3
+Tektiteko,ttc,15,6
+Uspanteco,usp,15,7
+Mende (Papua New Guinea),sim,14,1
+Umbu-Ungu,ubu,14,71
+Arapaho,arp,14,3
+Maca,mca,14,2
+Nggem,nbq,14,2
+Pichis Ashéninka,cpu,14,5
+Francisco León Zoque,zos,14,2
+East Kewa,kjs,14,6
+Edolo,etr,14,2
+Yalálag Zapotec,zpu,14,2
+Cajonos Zapotec,zad,14,2
+Gela,nlg,14,2
+Cavineña,cav,14,2
+Nyole,nuj,14,10
+Batak Karo,btx,14,80
+Lacandon,lac,14,6
+Maasina Fulfulde,ffm,14,68
+Male (Ethiopia),mdy,14,3
+Chiquitano,cax,14,2
+Chumburung,ncu,14,8
+Siksika,bla,14,2
+Mangseng,mbh,14,2
+San Juan Colorado Mixtec,mjc,14,6
+Makaa,mcp,14,10
+Ninzo,nin,14,8
+Bola,bnp,14,12
+Dawro,dwr,14,68
+Gamo,gmv,14,3
+Kapingamarangi,kpg,14,11
+Naro,nhr,14,3
+Tezoatlán Mixtec,mxb,14,6
+Are,mwc,14,12
+Tahitian,tah,14,3
+Mixtepec Zapotec,zpm,14,2
+Wedau,wed,14,12
+Maskelynes,klv,14,2
+Northern Emberá,emp,14,67
+Enga,enq,14,67
+Northern Tepehuan,ntp,14,6
+Ocotepec Mixtec,mie,14,6
+Mekeo,mek,14,12
+Kurti,ktm,14,2
+Murrinh-Patha,mwf,14,2
+Ese,mcq,14,2
+Chortí,caa,14,6
+Central Tunebo,tuf,14,6
+Kwara'ae,kwf,14,12
+Kutu,kdc,14,8
+Tiv,tiv,14,90
+Walmajarri,wmt,14,6
+Barasana-Eduria,bsn,14,2
+Northern Paiute,pao,14,6
+Haruai,tmd,14,2
+Garhwali,gbm,14,81
+Adzera,adz,14,2
+Bokobaru,bus,14,72
+Amatlán Zapotec,zpo,14,2
+Kwanga,kwj,14,2
+Bugawac,buk,14,12
+Kyaka,kyc,14,6
+Yongkom,yon,14,6
+Dawawa,dww,14,12
+Tohono O'odham,ood,14,7
+Xicotepec De Juárez Totonac,too,14,2
+Epena,sja,14,68
+Southern Dagaare,dga,14,9
+Awiyaana,auy,14,6
+Kakabai,kqf,14,12
+Macuna,myy,14,2
+Kayabí,kyz,14,2
+Ozolotepec Zapotec,zao,14,2
+Gheg Albanian,aln,14,3
+Southern Sami,sma,14,21
+Keapara,khz,14,12
+Chuj,cac,14,71
+Paama,pma,14,2
+Yessan-Mayo,yss,14,2
+Northern Thai,nod,14,2
+Denya,anv,14,8
+Pogolo,poy,14,2
+Suena,sue,14,5
+Marik,dad,14,12
+Safeyoka,apz,14,2
+Nopala Chatino,cya,14,6
+Dogrib,dgr,14,2
+Iatmul,ian,14,2
+Southern Carrier,caf,14,2
+Ama (Papua New Guinea),amm,14,2
+Gumatj,gnn,14,2
+Torres Strait Creole,tcs,14,18
+Saliba,sbe,14,2
+Au,avt,14,2
+Karkar-Yuri,yuj,14,2
+Buhutu,bxh,14,2
+Konkomba,xon,14,8
+Fanamaket,bjp,14,2
+Estado de México Otomi,ots,14,2
+Borei,gai,14,2
+Kara (Papua New Guinea),leu,14,12
+Ocotlán Zapotec,zac,14,2
+Bwanabwana,tte,14,12
+Nobonob,gaw,14,6
+Minaveha,mvn,14,2
+Madak,mmx,14,12
+Kamula,xla,14,2
+Magdalena Peñasco Mixtec,xtm,14,6
+Lozi,loz,14,26
+Akukem,spm,14,2
+Kire,geb,14,2
+Uripiv-Wala-Rano-Atchin,upv,14,2
+Old French (842-ca. 1400),fro,14,17
+Diuxi-Tilantongo Mixtec,xtd,14,6
+Kandas,kqw,14,12
+Kwere,cwe,14,8
+Tacana,tna,14,2
+Tangoa,tgp,14,12
+Dano,aso,14,6
+Ngangam,gng,14,8
+Siane,snp,14,6
+Tii,txq,14,2
+Faiwol,fai,14,6
+Northwest Alaska Inupiatun,esk,14,2
+Capanahua,kaq,14,2
+Kobon,kpw,14,6
+Bimin,bhl,14,6
+North Tairora,tbg,14,2
+Fore,for,14,6
+Tuyuca,tue,14,2
+Tiruray,tiy,14,2
+Djambarrpuyngu,djr,14,2
+Olo,ong,14,2
+Pa'o Karen,blk,14,3
+Guajajára,gub,14,67
+Arop-Lokep,apr,14,12
+Manam,mva,14,12
+Korafe-Yegha,kpr,14,6
+Fasu,faa,14,2
+Waima,rro,14,12
+Sudest,tgo,14,12
+Guhu-Samane,ghs,14,6
+Zigula,ziw,14,2
+Xavánte,xav,14,2
+Southeast Ambrym,tvk,14,2
+Kalam,kmh,14,6
+Kombio,xbi,14,2
+Agusan Manobo,msm,14,82
+Quiotepec Chinantec,chq,14,7
+Kosarek Yale,kkl,14,1
+Sakizaya,szy,14,7
+Sa'a,apb,14,2
+Nyungar,nys,14,1
+Zia,zia,14,6
+Wala,lgl,14,2
+Biangai,big,14,10
+Old Russian,orv,14,16
+Eastern Bontok,ebk,14,1
+Paumarí,pad,14,6
+Rawa,rwo,14,71
+Folopa,ppo,14,2
+Kanasi,soq,14,2
+Pitjantjatjara,pjt,14,2
+Barai,bbb,14,2
+Abau,aau,14,6
+Lashi,lsi,14,6
+Takia,tbc,14,12
+Aguacateco,agu,14,6
+Ömie,aom,14,2
+Natügu,ntu,14,2
+Baga Sitemu,bsp,14,3
+Alyawarr,aly,14,2
+Baluchi,bal,14,16
+Chipaya,cap,14,2
+Tawala,tbo,14,12
+Kaninuwa,wat,14,2
+Usarufa,usa,14,6
+Kaingang,kgp,14,2
+Yalunka,yal,14,7
+Tsikimba,kdl,14,8
+Wantoat,wnc,14,6
+Ambonese Malay,abs,14,2
+Kaiwá,kgk,14,6
+Palikúr,plu,14,2
+Odoodee,kkc,14,2
+Nii,nii,14,6
+Macushi,mbc,14,2
+Hamer-Banna,amf,14,3
+Ubir,ubr,14,12
+Ignaciano,ign,14,6
+Orokaiva,okv,14,6
+Upper Necaxa Totonac,tku,14,2
+Sepik Iwam,iws,14,2
+Tungag,lcm,14,12
+Alur,alz,14,72
+West Kewa,kew,14,5
+Waskia,wsk,14,6
+Minica Huitoto,hto,14,2
+Maiwa (Papua New Guinea),mti,14,2
+Amele,aey,14,6
+Jamiltepec Mixtec,mxt,14,6
+Kala Lagaw Ya,mwp,14,2
+Nakanai,nak,14,12
+Anuki,aui,14,12
+Chuave,cjv,14,6
+Agarabi,agd,14,6
+Umanakaina,gdn,14,2
+San Jerónimo Tecóatl Mazatec,maa,14,6
+Walloon,wln,14,7
+Yatzachi Zapotec,zav,14,2
+Teutila Cuicatec,cut,14,6
+Hote,hot,14,12
+North Bolivian Quechua,qul,14,2
+Saniyo-Hiyewe,sny,14,2
+Panao Huánuco Quechua,qxh,14,1
+Popti',jac,14,71
+Bariai,bch,14,1
+San Pedro Amuzgos Amuzgo,azg,14,6
+Tanimuca-Retuarã,tnc,14,2
+Misima-Panaeati,mpx,14,12
+Kadiwéu,kbc,14,2
+Aruamu,msy,14,2
+Golin,gvf,14,6
+Supyire Senoufo,spp,14,73
+Wapishana,wap,14,6
+Patpatar,gfk,14,12
+Central Tarahumara,tar,14,2
+Girawa,bbr,14,6
+Melpa,med,14,6
+Obolo,ann,14,73
+Bukiyip,ape,14,67
+Tataltepec Chatino,cta,14,6
+Coatlán Mixe,mco,14,2
+Iwal,kbm,14,12
+Kayapó,txu,14,2
+Samberigi,ssx,14,6
+Ikwere,ikw,14,3
+Kwamera,tnk,14,2
+Karajá,kpj,14,2
+Kuku-Yalanji,gvn,14,2
+Wipi,gdr,14,2
+Zoogocho Zapotec,zpq,14,2
+Gourmanchéma,gux,14,8
+Lahu,lhu,14,71
+San Juan Atzingo Popoloca,poe,14,6
+Tifal,tif,14,2
+Alekano,gah,14,6
+Standard Estonian,ekk,14,5
+Wuvulu-Aua,wuv,14,12
+Borgu Fulfulde,fue,13,3
+Ghayavi,bmk,13,12
+Tai,taw,13,4
+Kuni-Boazi,kvg,13,2
+Tucano,tuo,13,2
+Western Bolivian Guaraní,gnw,13,2
+Volapük,vol,13,6
+Choapan Zapotec,zpc,13,2
+Baruya,byr,13,1
+Amanab,amn,13,2
+Guahibo,guh,13,71
+Muyang,muy,13,12
+Kandawo,gam,13,1
+Zaza,zza,13,84
+Bo-Ung,mux,13,5
+Sursurunga,sgz,13,12
+Nyindrou,lid,13,11
+Tepeuxila Cuicatec,cux,13,6
+Uri,uvh,13,1
+Seimat,ssg,13,1
+Piapoco,pio,13,6
+Carapana,cbc,13,2
+Eastern Arrernte,aer,13,1
+Takuu,nho,13,1
+Border Kuna,kvn,13,6
+Tabaa Zapotec,zat,13,2
+Yucuna,ycn,13,6
+Mape,mlh,13,5
+Tereno,ter,13,6
+Tenharim,pah,13,2
+Apinayé,apn,13,2
+Takwane,tke,13,3
+Rikbaktsa,rkb,13,1
+Maru,mhx,13,6
+Kunimaipa,kup,13,2
+Western Apache,apw,13,2
+Urat,urt,13,2
+Label,lbb,13,1
+Northern Kankanay,xnn,13,1
+Usan,wnu,13,5
+Yaouré,yre,13,2
+Kosena,kze,13,1
+Dangaléat,daa,13,11
+Mopán Maya,mop,13,6
+Maxakalí,mbl,13,2
+El Nayar Cora,crn,13,6
+Piratapuyo,pir,13,2
+Qaqet,byx,13,2
+Ogea,eri,13,1
+Yau (Morobe Province),yuw,13,5
+Cerma,cme,13,8
+Kwoma,kmo,13,6
+Wiru,wiu,13,2
+Rincón Zapotec,zar,13,2
+Juquila Mixe,mxq,13,2
+Mokole,mkl,13,3
+Teribe,tfr,13,6
+Eastern Khumi Chin,cek,13,2
+Masaaba,myx,13,10
+Pijin,pis,13,96
+Mapos Buang,bzh,13,12
+Inga,inb,13,66
+Isthmus Mixe,mir,13,2
+Suau,swp,13,12
+Huehuetla Tepehua,tee,13,2
+Lalana Chinantec,cnl,13,6
+Nali,nss,13,11
+Garrwa,wrk,13,2
+Efik,efi,13,34
+Querétaro Otomi,otq,13,74
+Awara,awx,13,5
+Quioquitani-Quierí Zapotec,ztq,13,2
+Eastern Highland Otomi,otm,13,6
+Ngulu,ngp,13,1
+Lowland Tarahumara,tac,13,6
+Kyenele,kql,13,2
+Nkonya,nko,13,3
+Lewo,lww,13,1
+Ndamba,ndj,13,1
+Southern Puebla Mixtec,mit,13,6
+Sankaran Maninka,msc,13,3
+Mussau-Emira,emi,13,11
+Parecís,pab,13,6
+Patep,ptp,13,11
+Interlingue,ile,13,3
+Fataluku,ddg,13,2
+Tewa (USA),tew,13,2
+Tabasco Chontal,chf,13,6
+Atatláhuca Mixtec,mib,13,6
+Aneme Wake,aby,13,1
+Silacayoapan Mixtec,mks,13,6
+Swampy Cree,csw,13,1
+Kaluli,bco,13,2
+Noone,nhu,13,8
+Koti,eko,13,1
+Kein,bmh,13,5
+Morokodo,mgc,13,3
+Kouya,kyf,13,8
+Western Tlacolula Valley Zapotec,zab,13,2
+Ayautla Mazatec,vmy,13,5
+Angor,agg,13,2
+Sateré-Mawé,mav,13,2
+Tsishingini,tsw,13,7
+Nadëb,mbj,13,2
+Yaweyuha,yby,13,5
+Yabem,jae,13,1
+Mískito,miq,13,67
+Coyutla Totonac,toc,13,2
+Guayabero,guo,13,6
+Telefol,tlf,13,6
+Anjam,boj,13,5
+Sabaot,spy,13,3
+Cuiba,cui,13,6
+Nek,nif,13,5
+Pinotepa Nacional Mixtec,mio,13,6
+Bakairí,bkq,13,2
+Ewage-Notu,nou,13,6
+Tepetotutla Chinantec,cnt,13,6
+Congo Swahili,swc,13,18
+San Miguel El Grande Mixtec,mig,13,6
+Southern Nambikuára,nab,13,2
+Mato,met,13,1
+Ipili,ipi,13,5
+Northern Oaxaca Nahuatl,nhy,13,6
+Buglere,sab,13,6
+Beaver,bea,13,2
+Palantla Chinantec,cpa,13,6
+Chayuco Mixtec,mih,13,6
+Sulka,sua,13,2
+Salt-Yui,sll,13,5
+Copala Triqui,trc,13,6
+San Mateo Del Mar Huave,huv,13,2
+Michoacán Nahuatl,ncl,13,6
+Waimaha,bao,13,2
+Kuot,kto,13,1
+Lote,uvl,13,11
+Lule Sami,smj,13,11
+Nukna,klt,13,1
+Hopi,hop,13,2
+Ashéninka Pajonal,cjo,13,6
+Wik-Mungkan,wim,13,2
+Niuean,niu,13,24
+Comaltepec Chinantec,cco,13,6
+Tuma-Irumu,iou,13,5
+Angaataha,agm,13,1
+Western Highland Chatino,ctp,13,6
+Mian,mpt,13,6
+Kasua,khs,13,2
+Santo Domingo Albarradas Zapotec,zas,13,2
+Aymara,aym,13,8
+Gwahatike,dah,13,5
+Bughotu,bgt,13,2
+Yareba,yrb,13,2
+Southern Conchucos Ancash Quechua,qxo,13,1
+'Auhelawa,kud,13,12
+Yopno,yut,13,5
+Kituba (Democratic Republic of Congo),ktu,13,73
+Western Arrarnta,are,13,2
+Buamu,box,13,8
+Woun Meu,noa,13,67
+Caribbean Javanese,jvn,13,75
+Jalapa De Díaz Mazatec,maj,13,6
+Tase Naga,nst,13,7
+Mankanya,knf,13,3
+Arifama-Miniafia,aai,13,12
+Keyagana,kyg,13,6
+Nabak,naf,13,5
+Subiya,sbs,13,3
+Migabac,mpp,13,1
+Urim,uri,13,2
+Tol,jic,13,2
+Paicî,pri,13,2
+Baeggu,bvd,13,2
+Kalanguya,kak,13,2
+Gofa,gof,13,68
+Tatuyo,tav,13,3
+Molima,mox,13,12
+Texmelucan Zapotec,zpz,13,2
+Urubú-Kaapor,urb,13,3
+Western Kanjobal,knj,13,71
+Muinane,bmr,13,2
+Imbongu,imo,13,6
+Sierra de Juárez Zapotec,zaa,13,2
+Chichicapan Zapotec,zpv,13,2
+Cacua,cbv,13,3
+Ajyíninka Apurucayali,cpc,13,1
+Quechua,que,13,12
+Lealao Chinantec,cle,13,6
+Southern Pastaza Quechua,qup,13,66
+Sidamo,sid,13,5
+Hdi,xed,13,12
+Tlahuitoltepec Mixe,mxp,13,2
+Numanggang,nop,13,5
+Uare,ksj,13,2
+Mangga Buang,mmo,13,11
+Coatecas Altas Zapotec,zca,13,2
+Siroi,ssd,13,5
+Bedjond,bjv,13,5
+Hixkaryána,hix,13,2
+Komba,kpf,13,5
+Waffa,waj,13,5
+Lachixío Zapotec,zpl,13,2
+Sochiapam Chinantec,cso,13,6
+Hanga Hundi,wos,13,1
+Mbula,mna,13,11
+Peñoles Mixtec,mil,13,6
+Ucayali-Yurúa Ashéninka,cpb,13,1
+Northern Pastaza Quichua,qvz,12,66
+Inuktitut,iku,12,4
+Ngindo,nnq,12,1
+Manado Malay,xmm,12,67
+Nimoa,nmw,12,1
+Mengen,mee,12,11
+Makasae,mkz,12,2
+Chimborazo Highland Quichua,qug,12,3
+Selepet,spl,12,5
+Maiadomu,mzz,12,12
+Batak Simalungun,bts,12,80
+Ramoaaina,rai,12,12
+Avaric,ava,12,7
+Adamawa Fulfulde,fub,12,3
+Khanty,kca,12,2
+Machiguenga,mcb,12,5
+Busa,bqp,12,5
+Dombe,dov,12,67
+Weri,wer,12,1
+Martu Wangka,mpj,12,1
+Imbabura Highland Quichua,qvi,12,68
+Koyraboro Senni Songhai,ses,12,8
+Iyo,nca,12,5
+Rohingya,rhg,12,17
+Réunion Creole French,rcf,12,73
+Kven Finnish,fkv,12,15
+Anmatyerre,amx,12,1
+Kube,kgf,12,5
+Chiquihuitlán Mazatec,maq,12,6
+Bargam,mlp,12,5
+"Herero
+							Otjiherero",hz,12,26
+Timbe,tim,12,5
+Juǀʼhoan,ktz,12,3
+Yatee Zapotec,zty,12,2
+Palauan,pau,12,81
+Baoulé,bci,12,81
+Coatzospan Mixtec,miz,12,6
+Taupota,tpa,12,12
+Ankave,aak,12,1
+Balkan Romani,rmn,12,2
+Cornish,cor,12,5
+Vidunda,vid,12,1
+Q'anjob'al,kjb,12,7
+Purepecha,tsz,12,2
+Southeastern Tepehuan,stp,12,6
+Usila Chinantec,cuc,12,6
+Khoekhoe,naq,12,4
+Konzo,koo,12,4
+South Ucayali Ashéninka,cpy,12,1
+Kuman (Papua New Guinea),kue,12,6
+Western Dani,dnw,12,2
+Tlachichilco Tepehua,tpt,12,1
+Sio,xsi,12,11
+Falam Chin,cfm,12,74
+Khakas,kjh,12,76
+Sop,urw,12,1
+Ozumacín Chinantec,chz,12,5
+Hunsrik,hrx,12,19
+Merey,meq,12,10
+Southern Balochi,bcc,12,2
+Luvale,lue,12,25
+Pintupi-Luritja,piu,12,1
+Mbuko,mqb,12,10
+Ivbie North-Okpela-Arhe,atg,12,7
+Lunda,lun,12,18
+Chukot,ckt,12,3
+Chakma,ccp,12,2
+Gusii,guz,12,3
+Siriano,sri,12,1
+Mansi,mns,11,3
+Kirmanjki (individual language),kiu,11,3
+Ainu (Japan),ain,11,19
+Tedim Chin,ctd,11,9
+Western Bru,brv,11,1
+Yemba,ybb,11,3
+Ndonga,ndo,11,6
+Dargwa,dar,11,8
+"Northern Ndebele
+							isiNdebele",nd,11,25
+Vwanji,wbi,11,2
+Kaonde,kqn,11,24
+Yombe,yom,11,3
+Tenango Otomi,otn,11,5
+Mohawk,moh,11,7
+Nogai,nog,11,73
+Maore Comorian,swb,11,3
+Nzima,nzi,11,77
+Marshallese,mah,11,3
+Prussian,prg,11,13
+Chechen,che,11,7
+Duala,dua,11,5
+Mauwake,mhl,11,6
+Mwera (Chimwera),mwe,11,1
+Miyobe,soy,11,8
+Ono,ons,11,1
+Ndau,ndc,11,5
+Tinputz,tpz,11,11
+Mambae,mgm,11,11
+Amri Karbi,ajz,11,1
+Nande,nnb,11,81
+Gonja,gjn,11,3
+Tooro,ttj,11,7
+Mende (Sierra Leone),men,11,7
+Chiga,cgg,11,2
+Nyoro,nyo,11,11
+Southern Rincon Zapotec,zsr,11,1
+Paraguayan Guaraní,gug,11,3
+Safwa,sbk,11,2
+Gilbertese,gil,11,90
+Wa,wbm,11,11
+Nyangumarta,nna,11,1
+Namiae,nvm,11,1
+"Luba-Katanga
+							Tshiluba",lu,11,102
+Serer,srr,11,68
+Even,eve,11,4
+Blagar,beu,11,1
+Buriat,bua,11,80
+Potawatomi,pot,11,7
+Zaramo,zaj,11,1
+Sylheti,syl,11,82
+Tena Lowland Quichua,quw,11,2
+Kasem,xsm,11,8
+Kom (Cameroon),bkm,11,2
+Páez,pbb,11,3
+Gunwinggu,gup,11,1
+Middle High German (ca. 1050-1500),gmh,11,3
+Plautdietsch,pdt,10,2
+Toro So Dogon,dts,10,3
+Kuanyama,kua,10,4
+Uab Meto,aoz,10,13
+Barok,bjk,10,1
+Luyia,luy,10,8
+Tsakhur,tkr,10,1
+Ruching Palaung,pce,10,1
+Bamun,bax,10,2
+Sasak,sas,10,15
+Gizrra,tof,10,1
+Mandar,mdr,10,1
+Wambon,wms,10,1
+Kalanga,kck,10,3
+Manga Kanuri,kby,10,3
+Tampuan,tpu,10,1
+Upper Guinea Crioulo,pov,10,7
+Sukuma,suk,10,10
+Surigaonon,sgd,10,1
+Mum,kqa,10,2
+Ibatan,ivb,10,2
+Lü,khb,10,1
+Koonzime,ozm,10,10
+Tonga (Zambia),toi,10,31
+Gronings,gos,10,48
+Southern Kurdish,sdh,10,3
+Batak,bya,10,1
+Sangil,snl,10,1
+Upper Kinabatangan,dmg,10,1
+American Sign Language,ase,10,10
+Isoko,iso,10,93
+Menya,mcr,10,1
+Tarifit,rif,10,16
+Ojibwa,oji,10,2
+East Ambae,omb,10,2
+Kumyk,kum,10,76
+Tuvalu,tvl,10,87
+Limbum,lmp,10,3
+Kok Borok,trp,10,67
+Bulu (Cameroon),bum,10,70
+Janji,jni,10,2
+Hadothi,hoj,10,1
+Caló,rmq,10,2
+Tuki,bag,10,2
+Shatt,shj,10,2
+Bini,bin,10,5
+Dangaura Tharu,thl,10,2
+Northwestern Ojibwa,ojb,10,2
+Lamnso',lns,10,2
+Krung,krr,10,1
+Ghanaian Pidgin English,gpe,10,5
+Mandara,tbf,10,1
+Northeast Kiwai,kiw,10,1
+Isthmus-Mecayapan Nahuatl,nhx,10,6
+Swabian,swg,10,17
+Bumbita Arapesh,aon,10,2
+Ngazidja Comorian,zdj,10,3
+Kilivila,kij,10,2
+Beami,beo,10,1
+Eastern Lawa,lwl,10,1
+Tiwi,tiw,10,1
+Amo,amo,10,2
+Nenets,yrk,10,1
+Kamwe,hig,10,13
+Tukudede,tkd,10,1
+Pulaar,fuc,10,3
+Worrorra,wro,10,1
+Old Norse,non,10,15
+Rapanui,rap,10,11
+Baruga,bjz,10,1
+Aghem,agq,10,1
+Semai,sea,10,1
+Yanyuwa,jao,10,1
+Brahui,brh,10,2
+"Ojibwe
+							ᐊᓂᔑᓈᐯᒧᐎᓐ",oj,10,79
+Gumawana,gvs,10,1
+Matumbi,mgw,10,2
+Ivatan,ivv,10,2
+Turkana,tuv,10,3
+Mayo,mfy,10,6
+Eastern Canadian Inuktitut,ike,10,3
+Braj,bra,10,1
+Bu (Kaduna State),jid,10,2
+Brao,brb,10,1
+Tharaka,thk,10,10
+Gwere,gwr,10,10
+Bafut,bfd,10,8
+Ngaanyatjarra,ntj,10,1
+Nauete,nxa,10,1
+Maranao,mrw,9,82
+Northern Kissi,kqs,9,3
+Hre,hre,9,26
+Pokomo,pkb,9,10
+Bikol,bik,9,84
+Urhobo,urh,9,5
+Jola-Fonyi,dyo,9,8
+Yongbei Zhuang,zyb,9,2
+Afar,aar,9,6
+Cameroon Pidgin,wes,9,9
+Mundari,unr,9,1
+Zou,zom,9,6
+Fang (Equatorial Guinea),fan,9,6
+Rendille,rel,9,3
+Tombulu,tom,9,1
+Montenegrin,cnr,9,8
+Moba,mfq,9,8
+Yakha,ybh,9,1
+Keley-I Kallahan,ify,9,82
+Masai,mas,9,68
+Dakota,dak,9,2
+Tzeltal,tzh,9,71
+Shilluk,shk,9,7
+Tontemboan,tnt,9,1
+Southern Samo,sbd,9,7
+Sangir,sxn,9,82
+Angal Heneng,akh,9,6
+Old High German (ca. 750-1050),goh,9,1
+Kurukh,kru,9,8
+Herero,her,9,4
+Ludian,lud,9,2
+Rarotongan,rar,9,2
+Mundani,mnf,9,8
+Kakwa,keo,9,7
+Lomwe,ngl,9,5
+Karamojong,kdj,9,7
+Meta',mgo,9,8
+Moro,mor,9,8
+Babanki,bbk,9,3
+Gurani,hac,9,2
+Yetfa,yet,9,1
+Saamia,lsm,9,5
+Aringa,luc,9,6
+Uma,ppk,9,77
+Digo,dig,9,10
+Zande (individual language),zne,9,88
+Idoma,idu,9,3
+Tabassaran,tab,9,71
+Tigon Mbembe,nza,9,3
+Fali,fli,9,2
+Ranglong,rnl,9,2
+Kinaray-A,krj,9,82
+Jenaama Bozo,bze,9,2
+Sherpa,xsr,9,6
+Apalaí,apy,9,2
+Adhola,adh,9,67
+Western Kayah,kyu,9,2
+Classical Syriac,syc,9,15
+Okiek,oki,9,2
+Duruma,dug,9,10
+West-Central Limba,lia,9,8
+Isnag,isd,9,2
+Tetela,tll,9,91
+Iu Mien,ium,9,71
+Hmong Daw,mww,9,7
+Kwangali,kwn,9,8
+Metlatónoc Mixtec,mxv,9,2
+Kuuk Thaayorre,thd,9,1
+Isanzu,isn,9,2
+Kayan,pdu,9,1
+Ntcham,bud,9,8
+Matal,mfh,9,12
+Mongondow,mog,9,17
+Dhuwaya,dwy,9,1
+Mumuye,mzm,9,8
+Hmar,hmr,9,2
+Plains Cree,crk,9,2
+Bima,bhp,9,2
+Calamian Tagbanwa,tbk,9,2
+Bhadrawahi,bhd,9,1
+Talossan,tzl,9,6
+Galela,gbi,9,2
+Brooke's Point Palawano,plw,9,11
+Laki,lki,9,2
+Komi,kom,9,9
+Napo Lowland Quechua,qvo,9,2
+Markweeta,enb,9,3
+Batak Angkola,akb,9,67
+Tiéyaxo Bozo,boz,8,2
+Ma'di,mhi,8,7
+Shor,cjs,8,1
+Samburu,saq,8,2
+Ledo Kaili,lew,8,11
+Wichí Lhamtés Güisnay,mzh,8,1
+Baka (South Sudan),bdh,8,3
+Toba,tob,8,2
+Mahasu Pahari,bfz,8,2
+Kambera,xbr,8,2
+Hawai'i Creole English,hwc,8,18
+Achang,acn,8,6
+Nhengatu,yrl,8,4
+Batak Dairi,btd,8,15
+Kumam,kdi,8,2
+Arammba,stk,8,2
+Mbay,myb,8,7
+Tswa,tsc,8,70
+Tai Dam,blt,8,7
+Nyemba,nba,8,5
+Timne,tem,8,8
+Laarim,loh,8,2
+Ojitlán Chinantec,chj,8,2
+Nivaclé,cag,8,2
+Karbi,mjw,8,2
+Mbukushu,mhw,8,3
+Ho,hoc,8,11
+Kusaal,kus,8,8
+Songe,sop,8,5
+Koongo,kng,8,3
+Aja (Benin),ajg,8,3
+Meru,mer,8,3
+Lampung Api,ljp,8,15
+Sassarese Sardinian,sdc,8,1
+Lowland Oaxaca Chontal,clo,8,1
+Ao Naga,njo,8,2
+Termanu,twu,8,77
+Meyah,mej,8,2
+Rajbanshi,rjs,8,2
+Chipewyan,chp,8,1
+Santa María Quiegolani Zapotec,zpi,8,1
+Tornedalen Finnish,fit,8,1
+North Marquesan,mrq,8,2
+Tobelo,tlb,8,6
+Tiang,tbj,8,1
+Nyaneka,nyk,8,18
+Turka,tuz,8,2
+Baba Malay,mbf,8,12
+Napu,npy,8,11
+Botolan Sambal,sbl,8,11
+Mayoyao Ifugao,ifu,8,11
+Mundang,mua,8,3
+Ayutla Mixtec,miy,8,6
+Dibabawon Manobo,mbd,8,2
+Lamba,lam,8,5
+Chuwabu,chw,8,5
+Una,mtg,8,2
+Bawm Chin,bgr,8,6
+Diriku,diu,8,3
+Akeu,aeu,8,6
+Rakhine,rki,8,66
+Zulgo-Gemzek,gnd,8,12
+Amganad Ifugao,ifa,8,11
+Chopi,cce,8,77
+Ngombale,nla,8,1
+Southern Uzbek,uzs,8,3
+Eastern Bru,bru,8,76
+Umiray Dumaget Agta,due,8,2
+Mambwe-Lungu,mgr,8,4
+Western Juxtlahuaca Mixtec,jmx,8,2
+Vai,vai,8,2
+Vunjo,vun,8,10
+Huba,hbb,8,3
+Koreguaje,coe,8,1
+Dendi (Benin),ddn,8,4
+Central Subanen,syb,8,2
+Gor,gqr,8,5
+Mamanwa,mmn,8,2
+Ibanag,ibg,8,2
+Itawit,itv,8,11
+Mina (Cameroon),hna,8,1
+Hani,hni,8,1
+Tabaru,tby,8,2
+Dan,dnj,8,7
+Xiang Chinese,hsn,8,3
+Wagdi,wbr,8,1
+Sar,mwm,8,7
+Kalagan,kqe,8,11
+Nyamwanga,mwn,8,3
+Soli,sby,8,2
+Gungu,rub,8,1
+Isu (Menchum Division),isu,8,2
+Paite Chin,pck,8,74
+Kera,ker,8,12
+Rotuman,rtm,8,2
+Lahu Shi,lhi,8,2
+Abui,abz,8,2
+Zotung Chin,czt,8,6
+Waama,wwa,8,3
+Enxet,enx,8,2
+Banggai,bgz,8,67
+Cotabato Manobo,mta,8,17
+Louisiana Creole,lou,8,19
+Duri,mvp,8,11
+Chamacoco,ceg,8,2
+Jamsay Dogon,djm,8,2
+Mocoví,moc,8,2
+Mokpwe,bri,8,2
+Luba-Katanga,lub,8,5
+Adilabad Gondi,wsg,8,1
+Toraja-Sa'dan,sda,8,80
+Konyak Naga,nbe,8,2
+Bete-Bendi,btt,8,8
+Keliko,kbo,8,3
+Tem,kdh,8,3
+Tuwali Ifugao,ifk,8,11
+Ilianen Manobo,mbi,8,2
+Lobi,lob,8,8
+Gumuz,guk,8,3
+Khunsari,kfm,8,2
+Tandroy-Mahafaly Malagasy,tdx,8,70
+Ga'dang,gdg,8,1
+Vili,vif,8,2
+Manggarai,mqy,8,66
+Yanomamö,guu,8,2
+Church Slavic,chu,8,5
+Hanunoo,hnn,8,11
+Mandinka,mnk,8,3
+Mentawai,mwv,8,15
+Ibibio,ibb,8,67
+Muna,mnb,8,21
+Riang Lai,yin,8,1
+Talinga-Bwisi,tlj,7,10
+Apatani,apt,7,2
+Phom Naga,nph,7,2
+Evenki,evn,7,3
+Aché,guq,7,2
+Central Malay,pse,7,9
+Kom (India),kmm,7,2
+Aweer,bob,7,2
+Buhid,bku,7,11
+Mayangna,yan,7,2
+Yoloxochitl Mixtec,xty,7,2
+Hrangkhol,hra,7,2
+Mbunda,mck,7,3
+Kahua,agw,7,2
+Marwari (Pakistan),mve,7,1
+Mongo,lol,7,3
+Bangandu,bgf,7,2
+Esan,ish,7,3
+Bantoanon,bno,7,2
+Koya,kff,7,2
+Orizaba Nahuatl,nlv,7,6
+Ndali,ndh,7,2
+Lisu,lis,7,2
+Gulf Arabic,afb,7,6
+Bauzi,bvz,7,2
+Wallisian,wls,7,9
+Aralle-Tabulahan,atq,7,11
+Bimoba,bim,7,73
+Lahta Karen,kvt,7,1
+Taveta,tvs,7,2
+Alacatlatzala Mixtec,mim,7,3
+Sinte Romani,rmo,7,2
+Teop,tio,7,1
+Lengo,lgr,7,1
+Kupsabiny,kpz,7,6
+Gen,gej,7,8
+Tsimané,cas,7,2
+Nawdm,nmz,7,8
+Ndzwani Comorian,wni,7,2
+Kwakum,kwu,7,2
+Angami Naga,njm,7,6
+Nalca,nlc,7,6
+Dimasa,dis,7,2
+Orya,ury,7,2
+Djimini Senoufo,dyi,7,8
+Nyakyusa-Ngonde,nyy,7,10
+Vute,vut,7,3
+Vagla,vag,7,8
+Kaba,ksp,7,3
+Baltic Romani,rml,7,2
+Tlacoapa Me'phaa,tpl,7,1
+Khiamniungan Naga,kix,7,2
+Okpe (Southwestern Edo),oke,7,4
+Pengo,peg,7,1
+Akkadian,akk,7,2
+Lenakel,tnl,7,1
+Apasco-Apoala Mixtec,mip,7,2
+Naba,mne,7,1
+Dehu,dhv,7,2
+Tumulung Sisaala,sil,7,8
+Iraqw,irk,7,12
+Southern Kalinga,ksc,7,1
+Angguruk Yali,yli,7,5
+Lahnda,lah,7,19
+Sangtam Naga,nsa,7,2
+Syriac,syr,7,81
+Berik,bkl,7,2
+Wayampi,oym,7,2
+Kuvi,kxv,7,1
+Da'a Kaili,kzf,7,11
+Selee,snw,7,8
+Ravula,yea,7,1
+Gavar,gou,7,2
+Sambal,xsb,7,11
+Batad Ifugao,ifb,7,11
+Kafa,kbr,7,3
+Abaza,abq,7,1
+Ejagham,etu,7,3
+Chitwania Tharu,the,7,2
+Mampruli,maw,7,8
+Rawang,raw,7,2
+Drung,duu,7,1
+Taabwa,tap,7,2
+Konai,kxw,7,2
+Bafaw-Balong,bwt,7,1
+Islander Creole English,icr,7,22
+Salasaca Highland Quichua,qxl,7,2
+Middle French (ca. 1400-1600),frm,7,16
+Adioukrou,adj,7,8
+Nganasan,nio,7,1
+Baka (Cameroon),bkc,7,2
+Ngawn Chin,cnw,7,6
+Ambo-Pasco Quechua,qva,7,1
+Cheke Holo,mrn,7,1
+Wanga,lwg,7,3
+Southern Nuni,nnw,7,8
+Zeme Naga,nzm,7,2
+Petats,pex,7,1
+Iyojwa'ja Chorote,crt,7,2
+Biak,bhw,7,2
+Nomaande,lem,7,10
+Ghotuo,aaa,7,1
+Medumba,byv,7,3
+Esimbi,ags,7,2
+San Martín Itunyoso Triqui,trq,7,6
+Bambili-Bambui,baw,7,2
+Hanga,hag,7,8
+Rade,rad,7,2
+Central Yupik,esu,7,2
+Hehe,heh,7,9
+Tupuri,tui,7,3
+Southern East Cree,crj,7,2
+Jamamadí,jaa,7,8
+Ladakhi,lbj,7,2
+Dungan,dng,7,6
+Ayoreo,ayo,7,2
+Yamphu,ybi,7,1
+Bahnar,bdq,7,2
+Ap Ma,kbx,7,1
+Moloko,mlw,7,2
+Mada (Cameroon),mxu,7,2
+Chang Naga,nbc,7,2
+Nyishi,njz,7,2
+Avatime,avn,7,8
+Mmen,bfm,7,2
+Sadri,sck,7,2
+Cuvok,cuv,7,2
+Berom,bom,7,9
+Northern Khmer,kxm,7,11
+Wichí Lhamtés Nocten,mtp,7,2
+Wichí Lhamtés Vejoz,wlv,7,2
+Trinitario,trn,7,6
+Deg,mzw,7,8
+North Moluccan Malay,max,7,3
+Mofu-Gudur,mif,7,11
+Nilamba,nim,7,10
+Western Penan,pne,7,11
+Ngambay,sba,7,7
+Sakalava Malagasy,skg,7,3
+Láadan,ldn,7,6
+Tangkhul Naga (India),nmf,7,2
+Murle,mur,7,3
+Ot Danum,otd,7,2
+Laari,ldi,7,3
+Ilwana,mlk,7,2
+Mün Chin,mwq,7,2
+Kangri,xnr,7,3
+Mengaka,xmg,7,2
+Ruund,rnd,7,22
+Tsamai,tsb,7,2
+Mündü,muh,7,8
+Ménik,tnr,7,3
+Bhattiyali,bht,7,1
+Classical Nahuatl,nci,7,2
+Lambya,lai,7,3
+Avokaya,avu,7,7
+Mochi,old,7,10
+Western Tamang,tdg,7,1
+Abun,kgr,7,2
+Lundayeh,lnd,7,11
+Chicahuaxtla Triqui,trs,7,7
+Adi,adi,7,2
+Bafia,ksf,7,3
+Orokolo,oro,7,1
+Khumi Chin,cnk,7,2
+Sebat Bet Gurage,sgw,7,16
+Hittite,hit,7,2
+Kedah Malay,meo,7,67
+Inuinnaqtun,ikt,7,2
+Liangmai Naga,njn,7,2
+Ngemba,nge,7,1
+Chadian Arabic,shu,7,3
+Anyin,any,7,3
+Northwest Gbaya,gya,7,3
+Wancho Naga,nnp,7,2
+Haya,hay,7,9
+Ngwo,ngn,7,2
+Shughni,sgh,7,5
+Kipsigis,sgc,7,3
+San Salvador Kongo,kwy,7,20
+Lenje,leh,7,2
+Alangan,alj,7,11
+Biete,biu,7,2
+Terei,buo,7,1
+Phende,pem,7,3
+Old Turkish,otk,7,6
+Wandala,mfi,7,12
+Wayana,way,7,2
+Bu-Nao Bunu,bwx,7,1
+Tawallammat Tamajaq,ttq,7,3
+Central Nahuatl,nhn,7,6
+Gitonga,toh,7,9
+Santiago del Estero Quichua,qus,7,2
+Tausug,tsg,7,67
+Rukai,dru,7,7
+Shambala,ksb,7,10
+Pilagá,plg,7,2
+Bwaidoka,bwd,7,2
+Mefele,mfj,7,1
+Aimol,aim,7,2
+Urak Lawoi',urk,7,2
+North Alaskan Inupiatun,esi,7,2
+Enlhet,enl,7,2
+Tairaha,bxa,7,1
+Kagoro,xkg,7,2
+Northern Pame,pmq,7,2
+Ahirani,ahr,7,1
+Daai Chin,dao,7,1
+Bum,bmv,7,8
+Naga Pidgin,nag,7,1
+Nyaturu,rim,7,10
+Lhomi,lhm,7,2
+Noon,snf,7,3
+Didinga,did,7,3
+Machame,jmc,7,10
+Sibe,nco,7,1
+Puinave,pui,7,2
+Manikion,mnx,7,2
+Timugon Murut,tih,7,1
+Dupaninan Agta,duo,7,1
+Pinyin,pny,7,3
+Khün,kkh,7,1
+Kagate,syw,7,1
+Garo,grt,7,3
+Masana,mcn,7,3
+Kambaata,ktb,7,12
+Antankarana Malagasy,xmv,7,3
+Lamkang,lmk,7,2
+Pipil,ppl,7,7
+Laru,lan,7,2
+Eton (Cameroon),eto,7,3
+Rungus,drg,6,2
+Sierra Negra Nahuatl,nsu,6,5
+Psikye,kvj,6,3
+Parkwa,pbi,6,12
+Karaim,kdr,6,1
+Ila,ilb,6,2
+Car Nicobarese,caq,6,2
+Eastern Krahn,kqo,6,3
+Tamashek,tmh,6,12
+Nigeria Mambila,mzk,6,8
+Achagua,aca,6,2
+Hupa,hup,6,1
+Luwo,lwo,6,3
+Muduga,udg,6,1
+Samba Leko,ndi,6,3
+Mpumpong,mgg,6,2
+Giryama,nyf,6,13
+Kaansa,gna,6,3
+Tula,tul,6,3
+Mwan,moa,6,6
+Wamey,cou,6,3
+Batak Mandailing,btm,6,1
+Maring Naga,nng,6,2
+Mada (Nigeria),mda,6,8
+Gude,gde,6,12
+Mwaghavul,sur,6,12
+Zhuang,zha,6,1
+Galo,adl,6,2
+Rigwe,iri,6,8
+Kim,kia,6,8
+Lakota,lkt,6,6
+Ngiemboon,nnh,6,7
+Adangbe,adq,6,2
+Laz,lzz,6,7
+Ma'anyan,mhy,6,15
+Semandang,sdq,6,2
+Izii,izz,6,68
+Muthuvan,muv,6,1
+Havu,hav,6,3
+Central Puebla Nahuatl,ncx,6,1
+Kuwaa,blh,6,8
+West Ambae,nnd,6,2
+Southeastern Dinka,dks,6,3
+Mising,mrg,6,2
+Nyabwa,nwb,6,8
+Datooga,tcc,6,3
+Tachawit,shy,6,14
+Bandial,bqj,6,8
+Nahali,nlx,6,1
+Maram Naga,nma,6,2
+Gangte,gnb,6,2
+Zemba,dhm,6,3
+Barí,mot,6,1
+Yimchungru Naga,yim,6,2
+Igede,ige,6,3
+Nayini,nyq,6,2
+South Fali,fal,6,8
+Iraya,iry,6,11
+Sos Kundi,sdk,6,1
+Iceve-Maci,bec,6,2
+Wahau Kenyah,whk,6,1
+Southern Kisi,kss,6,5
+Mogofin,mfg,6,3
+To'abaita,mlu,6,2
+Nugunu (Cameroon),yas,6,1
+Classical Armenian,xcl,6,10
+Logo,log,6,3
+Aklanon,akl,6,15
+Ifè,ife,6,8
+Laka (Chad),lap,6,1
+Pwo Northern Karen,pww,6,6
+Makhuwa-Shirima,vmk,6,3
+Apali,ena,6,1
+Lele (Chad),lln,6,12
+Aghul,agx,6,1
+Bugun,bgg,6,1
+Fordata,frd,6,12
+Abé,aba,6,2
+Hassaniyya,mey,6,67
+Kuwaataay,cwt,6,6
+Vaiphei,vap,6,2
+Riang (India),ria,6,2
+Toura (Côte d'Ivoire),neb,6,7
+Ume Sami,sju,6,2
+Eastern Highland Chatino,cly,6,2
+Cabécar,cjp,6,6
+Southern Bobo Madaré,bwq,6,7
+Northern Tlaxiaco Mixtec,xtn,6,2
+Ezaa,eza,6,3
+Gokana,gkn,6,8
+Songomeno,soe,6,3
+Tokelau,tkl,6,10
+Bana,bcw,6,11
+Southern Rengma Naga,nre,6,2
+Chiripá,nhd,6,2
+Bassari,bsc,6,3
+Eastern Oromo,hae,6,3
+Oroqen,orh,6,1
+Cañar Highland Quichua,qxr,6,66
+Jur Modo,bex,6,7
+Emilian,egl,6,18
+Pana (Central African Republic),pnz,6,1
+Kalenjin,kln,6,1
+Western Balochi,bgn,6,1
+Anufo,cko,6,8
+Nawuri,naw,6,3
+Lohorung,lbr,6,1
+Yale,nce,6,1
+Baniwa,bwi,6,2
+Ngombe (Democratic Republic of Congo),ngc,6,3
+Ekajuk,eka,6,3
+Rajasthani,raj,6,65
+Izere,izr,6,8
+Koorete,kqy,6,3
+Northeastern Dinka,dip,6,3
+Ikwo,iqw,6,3
+Yindjibarndi,yij,6,1
+Tha,thy,6,2
+Gogo,gog,6,10
+Cameroon Mambila,mcu,6,8
+Tewe,twx,6,3
+Ahanta,aha,6,3
+Gata',gaq,6,1
+Biatah Bidayuh,bth,6,14
+Central Siberian Yupik,ess,6,6
+Wagi,fad,6,1
+Xibe,sjo,6,3
+Sanumá,xsu,6,2
+Sãotomense,cri,6,5
+Tupinambá,tpn,6,2
+Southern Toussian,wib,6,3
+Northern Ngbandi,ngb,6,2
+Gikyode,acd,6,8
+Kendayan,knx,6,2
+Panchpargania,tdb,6,1
+Ajië,aji,6,2
+Bekwarra,bkv,6,8
+Attié,ati,6,3
+Bada (Indonesia),bhz,6,11
+Kako,kkj,6,10
+Wadiyara Koli,kxp,6,1
+Koma,kmy,6,3
+Emberá-Catío,cto,6,2
+Bassa,bsq,6,3
+Inupiaq,ipk,6,1
+Yukpa,yup,6,2
+Daasanach,dsh,6,12
+Ndogo,ndz,6,7
+Musgu,mug,6,3
+Musey,mse,6,3
+Khana,ogo,6,3
+Anal,anm,6,2
+Tarao Naga,tro,6,2
+Abua,abn,6,3
+Northern East Cree,crl,6,1
+Lyélé,lee,6,7
+Nyamwezi,nym,6,2
+Loma (Liberia),lom,6,3
+Abidji,abi,6,8
+Santa María Zacatepec Mixtec,mza,6,2
+Nocte Naga,njb,6,2
+Od,odk,6,1
+Kuranko,knk,6,7
+Baelelea,bvc,6,2
+Kei,kei,6,2
+Tagin,tgj,6,2
+Karon,krx,6,3
+Kpelle,kpe,6,1
+Lelemi,lef,6,8
+Gurindji,gue,6,1
+Wè Northern,wob,6,8
+Ashéninka Perené,prq,6,1
+Kono (Sierra Leone),kno,6,7
+Labuk-Kinabatangan Kadazan,dtb,6,2
+Paasaal,sig,6,8
+Yocoboué Dida,gud,6,8
+Marba,mpg,6,12
+Seri,sei,6,1
+Nauru,nau,6,2
+Ngiti,niy,6,3
+Rongmei Naga,nbu,6,2
+Northern Dagara,dgi,6,8
+Tepo Krumen,ted,6,3
+Tumak,tmc,6,12
+Adele,ade,6,8
+Buli (Ghana),bwu,6,8
+Dogosé,dos,6,3
+Pwo Eastern Karen,kjp,6,1
+Sumi Naga,nsm,6,2
+Western Lawa,lcp,6,2
+Nafaanra,nfr,6,8
+Wali (Ghana),wlx,6,3
+Kuria,kuj,6,3
+Gulay,gvl,6,70
+Bakhtiari,bqi,6,1
+Boro (Ethiopia),bwo,6,2
+Kulung (Nepal),kle,6,6
+Paniya,pcg,6,1
+Yuracare,yuz,6,2
+Juang,jun,6,8
+Bissa,bib,6,7
+Kukele,kez,6,8
+Tuwuli,bov,6,8
+Kutep,kub,6,8
+Chokri Naga,nri,6,2
+Kaulong,pss,6,2
+Malinaltepec Me'phaa,tcf,6,2
+Mro-Khimi Chin,cmr,6,6
+Huarijio,var,6,2
+Yamba,yam,6,8
+East Futuna,fud,6,1
+Xaasongaxango,kao,6,7
+Southern Birifor,biv,6,8
+Mafa,maf,6,3
+Siwu,akp,6,8
+Beembe,beq,6,3
+Doyayo,dow,6,3
+Gbagyi,gbr,6,3
+Toaripi,tqo,6,2
+Guro,goa,6,3
+Northeastern Thai,tts,6,8
+Waata,ssn,6,2
+Saluan,loe,6,2
+Mano,mev,6,3
+Western Subanon,suc,6,1
+Vengo,bav,6,7
+Poumei Naga,pmx,6,5
+Jukun Takum,jbu,6,8
+Ottawa,otw,6,1
+Sekpele,lip,6,8
+Akuntsu,aqz,6,2
+Pisaflores Tepehua,tpp,6,2
+Culina,cul,6,2
+Tampulma,tpm,6,8
+Chinook jargon,chn,6,1
+Buwal,bhs,6,2
+South Giziga,giz,6,3
+Tonga (Nyasa),tog,6,5
+Mabaan,mfz,6,3
+Cogui,kog,6,6
+Wejewa,wew,6,2
+Cree,cre,6,1
+Sampang,rav,6,6
+Konso,kxc,6,12
+Yareni Zapotec,zae,6,2
+Korupun-Sela,kpq,6,2
+Kanyok,kny,6,3
+Central Okinawan,ryu,6,1
+Pere,pfe,5,3
+Khowar,khw,5,1
+Bouna Kulango,nku,5,2
+San Luís Temalacayuca Popoloca,pps,5,1
+Shuswap,shs,5,7
+Guugu Yimidhirr,kky,5,1
+North Mofu,mfk,5,12
+Swedish Sign Language,swl,5,1
+Sabah Malay,msi,5,66
+North Mesopotamian Arabic,ayp,5,2
+Kuo,xuo,5,6
+Palya Bareli,bpx,5,1
+Záparo,zro,5,1
+Cishingini,asg,5,1
+Munda,unx,5,1
+Konkani (individual language),knn,5,1
+Upper Grand Valley Dani,dna,5,7
+Sindarin,sjn,5,6
+Mangareva,mrv,5,1
+Nung (Viet Nam),nut,5,66
+Hijazi Arabic,acw,5,1
+Northern Yukaghir,ykg,5,1
+Dii,dur,5,3
+Kumaoni,kfy,5,1
+Ngando (Democratic Republic of Congo),nxd,5,3
+North Wahgi,whg,5,2
+Sakachep,sch,5,1
+Desano,des,5,1
+Malawi Sena,swk,5,3
+Ixcatlán Mazatec,mzi,5,1
+Bukar-Sadung Bidayuh,sdo,5,2
+ut-Hun,uth,5,3
+Lodhi,lbm,5,1
+Lega-Mwenga,lgm,5,3
+Delo,ntr,5,8
+Pochuri Naga,npo,5,1
+Monsang Naga,nmh,5,2
+Kija,gia,5,1
+Northern Katang,ncq,5,2
+Owa,stn,5,11
+Plapo Krumen,ktj,5,6
+Nsenga,nse,5,1
+Sissala,sld,5,8
+Patamona,pbc,5,2
+Manya,mzj,5,2
+Walser,wae,5,14
+Yambeta,yat,5,1
+Otuho,lot,5,2
+Loko,lok,5,7
+Mahou,mxx,5,2
+Tambotalo,tls,5,1
+Angloromani,rme,5,1
+Central-Eastern Niger Fulfulde,fuq,5,3
+Zacatepec Chatino,ctz,5,1
+Lega-Shabunda,lea,5,3
+Eastern Tawbuid,bnj,5,2
+Southwest Gbaya,gso,5,1
+Sudanese Arabic,apd,5,2
+Bekwel,bkw,5,2
+Bodo Parja,bdv,5,1
+Manchu,mnc,5,1
+Dhuwal,dwu,5,1
+Northern Pashto,pbu,5,1
+Stoney,sto,5,1
+Oku,oku,5,8
+Daba,dbq,5,2
+Nimadi,noe,5,66
+Manyawa,mny,5,1
+Khirwar,kwx,5,1
+Jola-Kasa,csk,5,8
+Holiya,hoy,5,1
+Lobala,loq,5,3
+Santa Teresa Cora,cok,5,5
+Bari,bfa,5,6
+Negerhollands,dcr,5,4
+Tikar,tik,5,8
+Kochila Tharu,thq,5,1
+Chittagonian,ctg,5,1
+Northern Rengma Naga,nnl,5,1
+Salar,slr,5,1
+Marwari (India),rwr,5,1
+Yansi,yns,5,3
+Taita,dav,5,2
+Simte,smt,5,67
+Old Irish (to 900),sga,5,7
+Dogri (individual language),dgo,5,1
+Northern Grebo,gbo,5,3
+Rembarrnga,rmb,5,1
+Lokaa,yaz,5,8
+Darlong,dln,5,2
+Malba Birifor,bfo,5,8
+Bundeli,bns,5,1
+Bukusu,bxk,5,2
+Eastern Karaboro,xrb,5,8
+Amahuaca,amc,5,1
+Tagbanwa,tbw,5,1
+Fur,fvr,5,2
+Arequipa-La Unión Quechua,qxu,5,1
+Gidar,gid,5,3
+Bilin,byn,5,11
+Guevea De Humboldt Zapotec,zpg,5,2
+Koro (Côte d'Ivoire),kfo,5,2
+San Vicente Coatlán Zapotec,zpt,5,1
+Tutsa Naga,tvt,5,1
+Southern Qiang,qxs,5,1
+Lachiguiri Zapotec,zpa,5,2
+Logudorese Sardinian,src,5,1
+Kimré,kqp,5,12
+Tunen,tvu,5,2
+Quetzaltepec Mixe,pxm,5,2
+Mandeali,mjl,5,1
+Guinea Kpelle,gkp,5,3
+Igala,igl,5,2
+Inpui Naga,nkf,5,1
+Quiavicuzas Zapotec,zpj,5,2
+Southern Qiandong Miao,hms,5,1
+Kagulu,kki,5,8
+Mazatlán Mixe,mzl,5,2
+Sichuan Yi,iii,5,3
+Chothe Naga,nct,5,1
+Alawa,alh,5,1
+Bomu,bmq,5,8
+Cajun French,frc,5,1
+Chippewa,ciw,5,1
+Ronga,rng,5,1
+No linguistic content,zxx,5,66
+Ngalum,szb,5,6
+Koasati,cku,5,1
+Warao,wba,5,1
+Sehwi,sfw,5,3
+Shoshoni,shh,5,1
+Moose Cree,crm,5,1
+Southeast Ijo,ijs,5,2
+Chiltepec Chinantec,csa,5,1
+Jinyu Chinese,cjy,5,1
+Sayula Popoluca,pos,5,2
+Moyon Naga,nmo,5,2
+Tai Nüa,tdd,4,1
+Ogbah,ogc,4,2
+Old Aramaic (up to 700 BCE),oar,4,14
+Tu,mjg,4,1
+Katcha-Kadugli-Miri,xtc,4,2
+Wandji,wdd,4,1
+Myene,mye,4,2
+Bondei,bou,4,1
+Komering,kge,4,1
+Aekyom,awi,4,2
+Tajio,tdj,4,1
+Isthmus-Cosoleacaque Nahuatl,nhk,4,1
+Bamukumbit,bqt,4,2
+Ikoma-Nata-Isenye,ntk,4,1
+Lolo,llb,4,1
+Multiple languages,mul,4,7
+Eipomek,eip,4,1
+Brithenig,bzt,4,6
+Chimalapa Zoque,zoh,4,1
+Rwa,rwk,4,2
+Ishkashimi,isk,4,1
+Luiseno,lui,4,1
+Kele (Democratic Republic of Congo),khy,4,3
+Papuan Malay,pmy,4,9
+Far Western Muria,fmu,4,1
+Mandari,mqu,4,2
+Bezhta,kap,4,2
+Karo (Ethiopia),kxh,4,2
+Badaga,bfq,4,1
+Nalik,nal,4,1
+Guyanese Creole English,gyn,4,69
+Bubi,buw,4,1
+Kiliwa,klb,4,1
+Baba,bbw,4,2
+Ketengban,xte,4,1
+Gogodala,ggw,4,1
+Embu,ebu,4,2
+Puma,pum,4,1
+Krache,kye,4,2
+Duma,dma,4,1
+Mara Chin,mrh,4,1
+Borôro,bor,4,2
+Nyangbo,nyb,4,2
+Ibali Teke,tek,4,2
+Angaité,aqt,4,1
+Lauje,law,4,11
+Kunama,kun,4,2
+Karo (Brazil),arr,4,4
+Kulfa,kxj,4,2
+Eastern Balochi,bgp,4,68
+Karok,kyh,4,1
+Yami,tao,4,6
+Ha,haq,4,2
+Spanish Sign Language,ssp,4,3
+Lendu,led,4,3
+Ingrian,izh,4,13
+Meskwaki,sac,4,1
+Southern Hindko,hnd,4,1
+Fuliiru,flr,4,2
+Chibcha,chb,4,1
+Ga'anda,gqa,4,2
+Kildin Sami,sjd,4,1
+Rangi,lag,4,2
+Ngam,nmc,4,2
+Bondo,bfw,4,1
+Southern Subanen,laa,4,9
+Malecite-Passamaquoddy,pqm,4,1
+Yurok,yur,4,1
+Bafanji,bfj,4,2
+Ik,ikx,4,2
+Cebaara Senoufo,sef,4,2
+Khorasani Turkish,kmz,4,1
+Mashi (Zambia),mho,4,2
+Bhili,bhb,4,1
+Vurës,msn,4,1
+Northern Haida,hdn,4,1
+Tagal Murut,mvv,4,9
+Sahu,saj,4,2
+Bena (Tanzania),bez,4,2
+Bidyogo,bjg,4,2
+Khmu,kjg,4,66
+Wano,wno,4,1
+Waurá,wau,4,1
+Nyiha (Tanzania),nih,4,2
+Agob,kit,4,1
+Sora,srb,4,1
+Southern Kiwai,kjd,4,1
+Ghulfan,ghl,4,2
+Seneca,see,4,1
+Iha,ihp,4,1
+Central Pashto,pst,4,1
+Malayic Dayak,xdy,4,1
+Biao-Jiao Mien,bje,4,1
+Gbari,gby,4,2
+Nupe-Nupe-Tako,nup,4,2
+Toba-Maskoy,tmf,4,1
+Pite Sami,sje,4,1
+Lepcha,lep,4,1
+Kwini,gww,4,1
+Peripheral Mongolian,mvf,4,1
+Kullu Pahari,kfx,4,1
+Asu (Tanzania),asa,4,2
+Ndasa,nda,4,1
+Sara Kaba Náà,kwv,4,2
+Marghi South,mfm,4,2
+Malo,mla,4,1
+Khaling,klr,4,1
+ǃXóõ,nmn,4,2
+Alaba-K’abeena,alw,4,2
+Ngbaka,nga,4,2
+Sanapaná,spn,4,1
+Fwe,fwe,4,2
+Lushootseed,lut,4,6
+Bamali,bbq,4,2
+Shua,shg,4,2
+Hadiyya,hdy,4,2
+Zinza,zin,4,2
+Movima,mzp,4,1
+Cacaloxtepec Mixtec,miu,4,1
+Southeastern Kolami,nit,4,1
+Lamma,lev,4,1
+Moskona,mtj,4,1
+Araona,aro,4,1
+Mfumte,nfu,4,2
+Parakanã,pak,4,1
+Ikposo,kpo,4,2
+Gaddi,gbk,4,1
+Barein,bva,4,1
+Fipa,fip,4,65
+Alladian,ald,4,3
+Beja,bej,4,3
+Jita,jit,4,2
+Zaghawa,zag,4,2
+Ngandi,nid,4,1
+Marind,mrz,4,1
+Atzingo Matlatzinca,ocu,4,1
+Mukulu,moz,4,2
+Burushaski,bsk,4,1
+Odual,odu,4,2
+Temi,soz,4,1
+Zuni,zun,4,1
+Jiarong,jya,4,2
+Kayardild,gyd,4,1
+Tlingit,tli,4,1
+Enawené-Nawé,unk,4,814
+Coastal Konjo,kjc,4,1
+Logooli,rag,4,2
+Zanaki,zak,4,1
+Northern Bobo Madaré,bbo,4,8
+Ende,end,4,1
+Kgalagadi,xkv,4,2
+Pahlavi,pal,4,12
+South Central Dinka,dib,4,2
+Cayuga,cay,4,6
+Bilaspuri,kfs,4,1
+Majukayang Kalinga,kmd,4,1
+Mixtepec Mixtec,mix,4,6
+Maba (Chad),mde,4,2
+Thangmi,thf,4,1
+Cayubaba,cyb,4,1
+South Efate,erk,4,1
+Ron,cla,4,2
+Fe'fe',fmp,4,1
+Rufiji,rui,4,2
+Rinconada Bikol,bto,4,15
+Dutton World Speedwords,dws,4,6
+Bongo,bot,4,2
+Tanaina,tfn,4,1
+Rumu,klq,4,1
+Sangu (Tanzania),sbp,4,1
+Leti (Indonesia),lti,4,1
+Anuak,anu,4,2
+Oneida,one,4,1
+Bagri,bgq,4,1
+Birhor,biy,4,1
+Mohave,mov,4,1
+Pévé,lme,4,11
+Alor,aol,4,1
+Western Tawbuid,twb,4,11
+Waiwai,waw,4,1
+Adivasi Oriya,ort,4,1
+Northern Qiandong Miao,hea,4,1
+Burji,bji,4,2
+Nandi,niq,4,68
+Hazaragi,haz,4,1
+Bangolan,bgj,4,2
+Hupdë,jup,4,1
+Phimbi,phm,4,1
+Pe,pai,4,8
+Chiru,cdf,4,2
+Migaama,mmy,4,1
+Yakama,yak,4,1
+Wichita,wic,4,1
+Kriang,ngt,4,9
+Ngie,ngj,4,1
+Koyra Chiini Songhay,khq,4,3
+Sakata,skt,4,2
+Maisin,mbq,4,1
+Gawwada,gwd,4,2
+Khams Tibetan,khg,4,2
+Konda-Dora,kfc,4,1
+San Francisco Matlatzinca,mat,4,1
+Mewari,mtr,4,66
+Koitabu,kqi,4,1
+Jibu,jib,4,2
+Bella Coola,blc,4,1
+Shina,scl,4,1
+Qimant,ahg,4,2
+Ebira,igb,4,2
+Ninam,shb,4,1
+Wongo,won,4,2
+Ute-Southern Paiute,ute,4,1
+Pali,pli,4,1
+Tsimshian,tsi,4,1
+Koyo,koh,4,1
+Middle Newar,nwx,4,1
+Sumerian,sux,4,1
+Komo (Democratic Republic of Congo),kmw,4,2
+Kukna,kex,4,2
+Aleut,ale,4,1
+Yanomámi,wca,4,2
+Soi,soj,4,1
+Tomo Kan Dogon,dtm,4,2
+Giiwo,kks,4,2
+Emberá-Tadó,tdc,4,1
+Lungga,lga,4,1
+Bangi,bni,4,2
+Eastern Maninkakan,emk,4,2
+Krongo,kgo,4,2
+Ebrié,ebr,4,2
+Yang Zhuang,zyg,4,1
+Pwo Western Karen,pwo,4,1
+Kodi,kod,4,1
+Kofyar,kwl,4,2
+Ekari,ekg,4,1
+Titan,ttv,4,1
+Shubi,suj,4,2
+Manangba,nmm,4,1
+Shi,shr,4,3
+Nungu,rin,4,2
+Mailu,mgu,4,1
+Nyikina,nyh,4,1
+Turoyo,tru,4,1
+Campidanese Sardinian,sro,4,1
+Trinidadian Creole English,trf,4,5
+Lambadi,lmn,4,1
+Pumé,yae,4,1
+Bagheli,bfy,4,1
+Eggon,ego,4,2
+Meramera,mxm,4,1
+Dhundari,dhd,4,1
+Bardi,bcj,4,1
+Tày,tyz,4,66
+Central Pame,pbs,3,1
+Ginyanga,ayg,3,2
+Bumaji,byp,3,2
+Dayi,dax,3,1
+Quechan,yum,3,1
+Majang,mpe,3,2
+Domu,dof,3,1
+Kharia,khr,3,1
+Ede Cabe,cbj,3,2
+Chak,ckh,3,1
+Wom (Papua New Guinea),wmo,3,1
+Mori Bawah,xmz,3,1
+Natioro,nti,3,2
+U,uuu,3,1
+Padoe,pdo,3,1
+Asue Awyu,psa,3,1
+Miship,mjs,3,2
+Kati,bsh,3,1
+Wagawaga,wgb,3,1
+Ganggalida,gcd,3,1
+Toda,tcx,3,1
+Furu,fuu,3,1
+Eastern Cham,cjm,3,1
+Vemgo-Mabas,vem,3,1
+Riang Lang,ril,3,1
+Bitare,brt,3,2
+Mom Jango,ver,3,2
+Gitxsan,git,3,1
+Busang Kayan,bfg,3,1
+Yauyos Quechua,qux,3,1
+Oroha,ora,3,1
+Akwa,akw,3,2
+Gahri,bfu,3,1
+Zabana,kji,3,1
+Min Bei Chinese,mnp,3,1
+Abon,abo,3,2
+ǂHua,huc,3,2
+Tolaki,lbw,3,1
+Kxoe,xuu,3,2
+Judeo-Tat,jdt,3,13
+Sewa Bay,sew,3,1
+Bua,bub,3,2
+Masalit,mls,3,2
+Nusu,nuf,3,1
+Bainouk-Gunyaamolo,bcz,3,1
+Maya Samo,sym,3,2
+Wayu,vay,3,1
+Neyo,ney,3,1
+Geruma,gea,3,2
+Mapena,mnm,3,1
+Southern Dong,kmc,3,1
+Sala,shq,3,1
+Bassossi,bsi,3,1
+Olulumo-Ikom,iko,3,2
+Dũya,ldb,3,2
+Rampi,lje,3,1
+Gorowa,gow,3,2
+Duna,duc,3,1
+Shwe Palaung,pll,3,1
+Batanga,bnm,3,1
+Adara,kad,3,2
+Ekpeye,ekp,3,1
+Tiale,mnl,3,1
+Selkup,sel,3,1
+Gbaya-Mbodomo,gmm,3,1
+Sie,erg,3,1
+Bile,bil,3,2
+Nguôn,nuo,3,1
+Iranun (Philippines),ilp,3,1
+Samaritan Aramaic,sam,3,1
+Cinta Larga,cin,3,1
+Sakao,sku,3,1
+Matengo,mgv,3,1
+Suabo,szp,3,1
+Youle Jinuo,jiu,3,1
+Menka,mea,3,2
+Korra Koraga,kfd,3,1
+Alagwa,wbj,3,1
+Zay,zwa,3,2
+Horom,hoe,3,2
+Suga,sgi,3,2
+Sumbawa,smw,3,1
+Isirawa,srl,3,1
+Labir,jku,3,2
+Evant,bzz,3,2
+Dirim,dir,3,2
+Bolia,bli,3,2
+Inor,ior,3,2
+Koda,cdz,3,1
+Jebero,jeb,3,1
+Logorik,liu,3,2
+Bidiyo,bid,3,1
+Uma' Lasan,xky,3,1
+Eloyi,afo,3,2
+Lembena,leq,3,1
+Bamu,bcf,3,1
+Merwari,wry,3,1
+Bulo Stieng,sti,3,1
+Yazgulyam,yah,3,1
+Lower Grand Valley Dani,dni,3,5
+Dhimal,dhi,3,1
+Guarequena,gae,3,1
+Ida'an,dbj,3,1
+Sabah Bisaya,bsy,3,1
+Michoacán Mazahua,mmc,3,1
+Vaghua,tva,3,1
+Tahaggart Tamahaq,thv,3,7
+Chakali,cli,3,2
+Zenzontepec Chatino,czn,3,1
+Maria (Papua New Guinea),mds,3,1
+Morigi,mdb,3,1
+Ho-Chunk,win,3,1
+Tapieté,tpj,3,1
+Palenquero,pln,3,1
+Andaman Creole Hindi,hca,3,1
+Kpessi,kef,3,2
+Lelepa,lpa,3,1
+Xokleng,xok,3,1
+Chitkuli Kinnauri,cik,3,1
+Mescalero-Chiricahua Apache,apm,3,1
+Tesaka Malagasy,tkg,3,2
+Sekele,vaj,3,2
+Namakura,nmk,3,1
+Emai-Iuleha-Ora,ema,3,1
+Aheri Gondi,esg,3,1
+Uneme,une,3,2
+Basap,bdb,3,1
+Goemai,ank,3,2
+Kamoro,kgq,3,1
+Miriwoong,mep,3,1
+Berinomo,bit,3,1
+Kariya,kil,3,2
+Bekati',bei,3,1
+Puyuma,pyu,3,6
+Kyerung,kgy,3,1
+Glio-Oubi,oub,3,2
+Jju,kaj,3,2
+Shanenawa,swo,3,1
+Southeast Pashai,psi,3,1
+Yis,yis,3,1
+Epie,epi,3,1
+Gavião Do Jiparaná,gvo,3,1
+Lidzonka,add,3,2
+Koro Wachi,bqv,3,2
+Lama (Togo),las,3,8
+Rao,rao,3,1
+Southern Thai,sou,3,1
+Wanap,wnp,3,1
+Burak,bys,3,2
+Ndo,ndp,3,3
+Mamuju,mqx,3,1
+Dobel,kvo,3,1
+Mulam,mlm,3,2
+Blafe,bfh,3,1
+Etkywan,ich,3,2
+Uma' Lung,ulu,3,1
+Lish,lsh,3,1
+Mugom,muk,3,1
+Ngizim,ngi,3,2
+Ahwai,nfd,3,2
+Agi,aif,3,1
+Zakhring,zkr,3,1
+Mitlatongo Mixtec,vmm,3,1
+Monzombo,moj,3,1
+Amdo Tibetan,adx,3,2
+Anor,anj,3,1
+Ghari,gri,3,1
+Walungge,ola,3,1
+Kerewo,kxz,3,1
+Surjapuri,sjp,3,66
+Eman,emn,3,2
+Tal,tal,3,1
+Maquiritari,mch,3,1
+Mansoanka,msw,3,2
+Eastern Durango Nahuatl,azd,3,1
+Laven,lbo,3,1
+Bondoukou Kulango,kzc,3,2
+Vasavi,vas,3,1
+Tsuvadi,tvd,3,2
+Narak,nac,3,1
+Eastern Kayah,eky,3,1
+Como Karim,cfg,3,2
+Afade,aal,3,2
+Gbaya (Sudan),krs,3,1
+Fang (Cameroon),fak,3,2
+Bayot,bda,3,2
+Iguta,nar,3,2
+North Central Mixe,neq,3,1
+Batu,btu,3,2
+Tedaga,tuq,3,2
+Anakalangu,akg,3,1
+Siwai,siw,3,1
+Pahi,lgt,3,1
+Kanamarí,knm,3,1
+Northern Tutchone,ttm,3,1
+Kɛlɛngaxo Bozo,bzx,3,1
+Younuo Bunu,buh,3,1
+Gooniyandi,gni,3,1
+Moma,myl,3,1
+Zoroastrian Dari,gbz,3,1
+Mocho,mhc,3,1
+Sur,tdl,3,1
+Tolowa,tol,3,1
+Duau,dva,3,1
+Kannada Kurumba,kfi,3,1
+Malayo,mbp,3,1
+Humene,huf,3,1
+Gedeo,drs,3,2
+Eastern Katu,ktv,3,1
+Chonyi-Dzihana-Kauma,coh,3,2
+Dza,jen,3,2
+Nukumanu,nuq,3,1
+Niksek,gbe,3,1
+Bouyei,pcc,3,1
+Western Fijian,wyy,3,1
+Yapunda,yev,3,1
+Degenan,dge,3,1
+Gambian Wolof,wof,3,2
+Pangu,png,3,2
+Seeku,sos,3,1
+Tiwa,lax,3,1
+Mono (Democratic Republic of Congo),mnh,3,5
+Bushoong,buf,3,1
+Tayart Tamajeq,thz,3,2
+Nambo,ncm,3,1
+Baraamu,brd,3,1
+Isu (Fako Division),szv,3,1
+Doutai,tds,3,1
+Tsogo,tsv,3,2
+Ndoola,ndr,3,2
+Dusner,dsn,3,1
+Kemak,kem,3,1
+Atong (Cameroon),ato,3,2
+Chinbon Chin,cnb,3,1
+Guriaso,grx,3,1
+Dolpo,dre,3,1
+Mwatebu,mwa,3,1
+Tugen,tuy,3,2
+Alcozauca Mixtec,xta,3,1
+Munsee,umu,3,1
+Dera (Indonesia),kbv,3,1
+Day,dai,3,2
+Abanyom,abm,3,1
+Shekhawati,swv,3,1
+Mabaale,mmz,3,2
+Sangu (Gabon),snq,3,2
+Ghanongga,ghn,3,1
+Koromira,kqj,3,1
+Jingulu,jig,3,1
+Bhunjia,bhu,3,1
+Dera (Nigeria),kna,3,2
+Deccan,dcc,3,1
+Sanggau,scg,3,1
+Allar,all,3,10
+Kwegu,xwg,3,2
+Halkomelem,hur,3,1
+Ugong,ugo,3,1
+Balanta-Kentohe,ble,3,2
+Andra-Hus,anx,3,1
+Tlacoatzintepec Chinantec,ctl,3,1
+Wahgi,wgi,3,1
+Sori-Harengan,sbh,3,1
+Baluan-Pam,blq,3,1
+Agwagwune,yay,3,2
+Gupapuyngu,guf,3,1
+Sukur,syk,3,2
+Molmo One,aun,3,1
+Jara,jaf,3,1
+Angolar,aoa,3,4
+West Yugur,ybe,3,1
+Kalou,ywa,3,1
+Kokoda,xod,3,1
+Gresi,grs,3,1
+Safaliba,saf,3,2
+Mbato,gwa,3,1
+Dia,dia,3,1
+Northwestern Dinka,diw,3,2
+Gade,ged,3,2
+Kalasha,kls,3,1
+Kaure,bpp,3,1
+Thompson,thp,3,1
+Tawoyan,twy,3,1
+Arguni,agf,3,1
+Tumzabt,mzb,3,2
+Savosavo,svs,3,1
+Mesqan,mvz,3,2
+Teke-Fuumu,ifm,3,1
+Sui,swi,3,1
+Corongo Ancash Quechua,qwa,3,1
+Santa María Del Mar Huave,hvv,3,1
+Stod Bhoti,sbu,3,1
+Wampar,lbq,3,1
+Numana,nbr,3,2
+Cocama-Cocamilla,cod,3,1
+San Felipe Otlaltepec Popoloca,pow,3,1
+Ilongot,ilk,3,1
+Kami (Nigeria),kmi,3,2
+Keningau Murut,kxi,3,1
+East Damar,dmr,3,1
+Fulniô,fun,3,1
+Geba Karen,kvq,3,1
+Kalumpang,kli,3,1
+Landoma,ldm,3,2
+Bian Marind,bpv,3,1
+White Gelao,giw,3,1
+Tai Do,tyj,3,6
+Ake,aik,3,2
+Sira,swj,3,2
+Toto,txo,3,1
+Nyarafolo Senoufo,sev,3,1
+Umon,umm,3,1
+Citak,txt,3,1
+Marúbo,mzr,3,1
+Sapuan,spu,3,1
+Hungana,hum,3,1
+Warji,wji,3,2
+Beele,bxq,3,2
+Western Keres,kjq,3,1
+Wambaya,wmb,3,1
+Guajá,gvj,3,1
+Burmeso,bzu,3,1
+Itene,ite,3,1
+Paku Karen,jkp,3,1
+Kickapoo,kic,3,1
+Jumli,jml,3,1
+Pankhu,pkh,3,1
+Iyo'wujwa Chorote,crq,3,2
+Dugwor,dme,3,1
+Godwari,gdx,3,1
+Liberian English,lir,3,3
+Japrería,jru,3,1
+Miju-Mishmi,mxj,3,1
+Deno,dbb,3,2
+Aari,aiw,3,2
+Wom (Nigeria),wom,3,2
+Munji,mnj,3,1
+Deori,der,3,1
+Ejamat,eja,3,2
+Digaro-Mishmi,mhu,3,1
+Sinasina,sst,3,1
+Arandai,jbj,3,1
+Central Nicobarese,ncb,3,1
+Nkem-Nkum,isi,3,2
+Punan Merap,puc,3,1
+Cuyonon,cyo,3,1
+Acatepec Me'phaa,tpx,3,1
+Demisa,dei,3,1
+Kemtuik,kmt,3,1
+Geko Karen,ghk,3,1
+Chimila,cbg,3,1
+Blang,blr,3,1
+Nanerigé Sénoufo,sen,3,2
+Nyahkur,cbn,3,1
+Maguindanaon,mdh,3,2
+Bussa,dox,3,2
+Samba Daka,ccg,3,2
+Baga Pokur,bcg,3,2
+Siri,sir,3,1
+Biwat,bwm,3,1
+Kokota,kkk,3,1
+Kanufi,kni,3,2
+Yurutí,yui,3,1
+Lele (Guinea),llc,3,2
+Bira,brf,3,2
+Sherbro,bun,3,2
+Tabla,tnm,3,1
+Nyong,muo,3,2
+Mai Brat,ayz,3,1
+Cochimi,coj,3,1
+Kagoma,kdm,3,2
+Kayan River Kayan,xkn,3,1
+Reyesano,rey,3,1
+Western Cham,cja,3,1
+Temoaya Otomi,ott,3,1
+Wakhi,wbl,3,1
+Nez Perce,nez,3,1
+Boga,bvw,3,2
+Kituba (Congo),mkw,3,4
+Kim Mun,mji,3,1
+Biyo,byo,3,1
+Manumanaw Karen,kxf,3,1
+Pawaia,pwa,3,1
+Viemo,vig,3,2
+Gao,gga,3,1
+Molof,msl,3,1
+Boselewa,bwf,3,1
+Ralte,ral,3,1
+Puoc,puo,3,1
+Large Flowery Miao,hmd,3,1
+Eastern Keres,kee,3,1
+Okpamheri,opa,3,2
+Jemez,tow,3,1
+Hoava,hoa,3,1
+Lehar,cae,3,1
+Otank,uta,3,2
+Marovo,mvo,3,1
+Kumiai,dih,3,1
+Chantyal,chx,3,1
+Sheni,scv,3,2
+Shumashti,sts,3,1
+Togoyo,tgy,3,1
+Bukharic,bhh,3,1
+Chug,cvg,3,1
+Beti (Côte d'Ivoire),eot,3,2
+Mararit,mgb,3,2
+Teme,tdo,3,1
+Yukuben,ybl,3,2
+Herdé,hed,3,2
+Hyam,jab,3,2
+Awtuw,kmn,3,1
+Central Palawano,plc,3,1
+Kwakiutl,kwk,3,1
+Gula'alaa,gmb,3,1
+Tami,tmy,3,1
+Wuzlam,udl,3,2
+Njen,njj,3,2
+Lianshan Zhuang,zln,3,1
+Awetí,awe,3,1
+Old Frisian,ofs,3,14
+Berta,wti,3,2
+North Slavey,scs,3,1
+Notsi,ncf,3,1
+Zari,zaz,3,2
+Yahang,rhp,3,1
+Barapasi,brp,3,1
+Tai Daeng,tyr,3,1
+Galeya,gar,3,1
+Owiniga,owi,3,1
+Jiba,juo,3,2
+Jowulu,jow,3,2
+Liujiang Zhuang,zlj,3,1
+Ncane,ncr,3,2
+Xanaguía Zapotec,ztg,3,1
+Tshangla,tsj,3,1
+Betta Kurumba,xub,3,1
+Waropen,wrp,3,1
+Buol,blf,3,1
+Moni,mnz,3,1
+Kanashi,xns,3,1
+Waci Gbe,wci,3,2
+Saleman,sau,3,1
+Casuarina Coast Asmat,asc,3,1
+Pouye,bye,3,1
+Moraid,msg,3,1
+Tobati,tti,3,1
+Mbe',mtk,3,2
+Chambri,can,3,2
+Fyer,fie,3,2
+Carijona,cbd,3,1
+Media Lengua,mue,3,4
+Luchazi,lch,3,3
+Suganga,sug,3,1
+Eastern Pomo,peb,3,1
+Toro,tdv,3,2
+Oro,orx,3,2
+Caka,ckx,3,2
+Intha,int,3,1
+Päri,lkr,3,2
+Narua,nru,3,1
+Lutos,ndy,3,3
+Mbe,mfo,3,2
+Dibiyaso,dby,3,1
+Iquito,iqu,3,1
+Bariji,bjc,3,1
+Ternate,tft,3,1
+Abar,mij,3,2
+Kamayurá,kay,3,1
+Komo (Sudan),xom,3,2
+Beli (Papua New Guinea),bey,3,1
+Hasha,ybj,3,2
+Zhire,zhi,3,2
+Kacipo-Bale Suri,koe,3,2
+North Giziga,gis,3,2
+Varisi,vrs,3,1
+Ninggerum,nxr,3,1
+Dima,jma,3,1
+Simaa,sie,3,2
+Nkhumbi,khu,3,1
+Ede Ije,ijj,3,2
+Darai,dry,3,1
+Yamdena,jmd,3,1
+Damal,uhn,3,1
+Paku,pku,3,1
+Kele (Papua New Guinea),sbc,3,1
+Tehit,kps,3,1
+Motlav,mlv,3,1
+Suki,sui,3,1
+Reshe,res,3,2
+Kenzi,xnz,3,1
+Sinagen,siu,3,1
+Khehek,tlx,3,11
+Rmeet,lbn,3,1
+Mota,mtt,3,1
+Aulua,aul,3,1
+Lari,lrl,3,1
+Touo,tqu,3,1
+Bitur,mcc,3,1
+Ngarinyin,ung,3,1
+Pnar,pbv,3,1
+Njebi,nzb,3,3
+Yambes,ymb,3,1
+Northern Roglai,rog,3,1
+Manza,mzv,3,1
+Krahô,xra,3,1
+Lolopo,ycl,3,5
+Galambu,glo,3,1
+Maonan,mmd,3,1
+Yaka (Congo),iyx,3,2
+Shoo-Minda-Nye,bcv,3,2
+Holu,hol,3,1
+Engenni,enn,3,2
+Sause,sao,3,1
+Tafi,tcd,3,2
+Vafsi,vaf,3,1
+Lillooet,lil,3,1
+Mashi (Nigeria),jms,3,2
+Nüpode Huitoto,hux,3,1
+Bembe,bmb,3,3
+Rennell-Bellona,mnv,3,1
+Wushi,bse,3,2
+Kurama,krh,3,1
+Singpho,sgp,3,1
+Karnai,bbv,3,1
+Daur,dta,3,1
+Teke-Ebo,ebo,3,2
+South West Bay,sns,3,1
+Dongo,doo,3,2
+Sajalong,sjl,3,1
+Lemoro,ldj,3,2
+Kumba,ksm,3,2
+Yerakai,yra,3,1
+Southern Tutchone,tce,3,1
+Tera,ttr,3,11
+Onin,oni,3,1
+Ding,diz,3,1
+Nayi,noz,3,1
+Mewati,wtm,3,1
+Izon,ijc,3,3
+Marka,rkm,3,2
+Tee,tkq,3,1
+Kusu,ksv,3,1
+Tunzu,dza,3,5
+Ma (Democratic Republic of Congo),msj,3,1
+Axi Yi,yix,3,1
+Quinault,qun,3,1
+Tiene,tii,3,2
+Kaan,ldl,3,2
+Torricelli,tei,3,1
+Dazaga,dzg,3,2
+Kuri,nbn,3,1
+Boghom,bux,3,2
+Kyanga,tye,3,2
+Mba,mfc,3,2
+Pana (Burkina Faso),pnq,3,2
+Panoan Katukína,knt,3,1
+Kelon,kyo,3,1
+Poqomam,poc,3,1
+Gurung,gvr,3,1
+Saidi Arabic,aec,3,2
+Ili'uun,ilu,3,1
+Tuwari,tww,3,1
+Hamtai,hmt,3,1
+Alumu-Tesu,aab,3,2
+Oring,org,3,2
+Solos,sol,3,1
+Eastern Mnong,mng,3,1
+Savi,sdg,3,1
+Tikopia,tkp,3,1
+Waioli,wli,3,1
+Fanagalo,fng,3,4
+Tangale,tan,3,2
+Tarok,yer,3,2
+Lakon,lkn,3,1
+Baure,brg,3,1
+Aikanã,tba,3,1
+Duke,nke,3,1
+Byangsi,bee,3,1
+Hiberno-Scottish Gaelic,ghc,3,7
+Tichurong,tcn,3,1
+Phalura,phl,3,1
+Northern Tujia,tji,3,1
+Kwanja,knp,3,2
+Odiai,bhf,3,1
+Ndut,ndv,3,2
+Ningil,niz,3,1
+Dâw,kwa,3,1
+Vangunu,mpr,3,1
+Wogamusin,wog,3,1
+Kuy,kdt,3,1
+Pei,ppq,3,1
+Sinyar,sys,3,1
+Baram Kayan,kys,3,1
+Tirahi,tra,3,1
+Embaloh,emb,3,1
+Rara Bakati',lra,3,1
+Jumjum,jum,3,2
+Southeastern Nochixtlán Mixtec,mxy,3,1
+Angoram,aog,3,1
+Naxi,nxq,3,1
+Northern Hindko,hno,3,1
+Dadiya,dbd,3,2
+Kais,kzm,3,1
+Koch,kdq,3,1
+Purari,iar,3,1
+Sô,sss,3,1
+Diri,dwa,3,1
+Tagwana Senoufo,tgw,3,2
+Alviri-Vidari,avd,3,1
+Pech,pay,3,1
+Lusengo,lse,3,2
+Ere,twp,3,1
+Koro (Vanuatu),krf,3,1
+Dompo,doy,3,2
+Warumungu,wrm,3,1
+Sipacapense,qum,3,1
+Interglossa,igs,3,4
+Tsou,tsu,3,6
+Kemedzung,dmo,3,2
+Ayoquesco Zapotec,zaf,3,1
+Duhwa,kbz,3,2
+Yala,yba,3,2
+Giangan,bgi,3,1
+Gamo-Ningi,bte,3,1
+Selayar,sly,3,1
+Nyaheun,nev,3,1
+Nda'nda',nnz,3,2
+Totoro,ttk,3,1
+Hunjara-Kaina Ke,hkk,3,1
+Southern Nago,nqg,3,2
+Grangali,nli,3,1
+Southern Luri,luz,3,66
+Surubu,sde,3,2
+Warembori,wsa,3,1
+Pu-Xian Chinese,cpx,3,1
+Iwaidja,ibd,3,1
+Lijili,mgi,3,1
+Logba,lgq,3,2
+Filomena Mata-Coahuitlán Totonac,tlp,3,1
+Nimboran,nir,3,1
+Avikam,avi,3,2
+Awngi,awn,3,2
+Khoibu Naga,nkb,3,1
+Ndoe,nbb,3,2
+Jambi Malay,jax,3,66
+Guiberoua Béte,bet,3,2
+Ipalapa Amuzgo,azm,3,1
+Igo,ahl,3,2
+Fyam,pym,3,2
+Southern Bai,bfs,3,1
+Leelau,ldk,3,1
+Nimo,niw,3,1
+Northern Betsimisaraka Malagasy,bmm,3,2
+Osing,osi,3,1
+Ashkun,ask,3,1
+Lala-Roba,lla,3,2
+Haiǁom,hgm,3,1
+Dijim-Bwilim,cfa,3,2
+Yeretuar,gop,3,1
+Dhatki,mki,3,1
+Tambas,tdk,3,2
+Paloor,fap,3,2
+Eton (Vanuatu),etn,3,1
+Lagwan,kot,3,2
+Mindiri,mpn,3,1
+Iko,iki,3,1
+Sera,sry,3,1
+Loniu,los,3,1
+Sembakung Murut,sbr,3,1
+Gagnoa Bété,btg,3,6
+Weh,weh,3,2
+Duguri,dbm,3,2
+Huilliche,huh,3,1
+Copainalá Zoque,zoc,3,2
+Jangshung,jna,3,1
+Awutu,afu,3,2
+Sudanese Creole Arabic,pga,3,2
+Temein,teq,3,2
+Notre,bly,3,2
+Maii,mmm,3,1
+Lamang,hia,3,2
+Molbog,pwm,3,1
+Western Highland Purepecha,pua,3,2
+Dass,dot,3,2
+Legenyem,lcc,3,1
+Valman,van,3,1
+Sha,scw,3,1
+Hruso,hru,3,1
+Basketo,bst,3,2
+Sani,ysn,3,1
+Koshin,kid,3,2
+ut-Ma'in,gel,3,2
+Ca̱hungwa̱rya̱,nat,3,2
+Kadu,zkd,3,1
+Gera,gew,3,1
+Qashqa'i,qxq,3,2
+Yagaria,ygr,3,1
+Yawanawa,ywn,3,1
+Oy,oyb,3,1
+Onondaga,ono,3,1
+Ligbi,lig,3,2
+Akebu,keu,3,7
+Mungaka,mhk,3,2
+Guduf-Gava,gdf,3,2
+Lamboya,lmy,3,1
+Amoltepec Mixtec,mbz,3,1
+Panasuan,psn,3,1
+Matya Samo,stj,3,2
+Brokskat,bkk,3,1
+Siawi,mmp,3,1
+Maléku Jaíka,gut,3,1
+Mpuono,zmp,3,1
+Chuanqiandian Cluster Miao,cqd,3,1
+Kuikúro-Kalapálo,kui,3,1
+Piti,pcn,3,2
+Foi,foi,3,1
+Wolane,wle,3,2
+Naami,bzv,3,2
+Baloi,biz,3,2
+Pinji,pic,3,1
+Onjob,onj,3,1
+Purik,prx,3,1
+Talaud,tld,3,1
+Punu,puu,3,2
+Okanagan,oka,3,1
+Glavda,glw,3,2
+Cross River Mbembe,mfn,3,2
+Kachhi,kfr,3,1
+Mangarrayi,mpc,3,1
+Akaselem,aks,3,2
+Central Pomo,poo,3,1
+Mapun,sjm,3,1
+Kohumono,bcs,3,2
+Romblomanon,rol,3,1
+Ngkâlmpw Kanum,kcd,3,1
+Mesme,zim,3,2
+Nyangatom,nnj,3,2
+Aiklep,mwg,3,1
+Ayu,ayu,3,2
+Babatana,baa,3,1
+Mawes,mgk,3,1
+Obokuitai,afz,3,1
+Koalib,kib,3,2
+Washo,was,3,1
+Pileni,piv,3,1
+Central Bai,bca,3,1
+Kanowit-Tanjong Melanau,kxn,3,1
+Ukpet-Ehom,akd,3,1
+Seko Padang,skx,3,1
+Lamenu,lmu,3,1
+Northern Sorsoganon,bks,3,1
+Shwai,shw,3,2
+Zimba,zmb,3,2
+Longgu,lgu,3,1
+Kwese,kws,3,1
+Maku'a,lva,3,1
+Irula,iru,3,1
+Gnau,gnu,3,1
+Laro,lro,3,2
+Bom-Kim,bmf,3,2
+Tanosy Malagasy,txy,3,1
+Wemale,weo,3,1
+Mori Atas,mzq,3,1
+Saek,skb,3,1
+Koromfé,kfz,3,2
+Kadaru,kdu,3,2
+Quenya,qya,3,6
+Lele (Papua New Guinea),lle,3,1
+Kanembu,kbl,3,2
+Khandesi,khn,3,1
+Bangka,mfb,3,1
+Ormu,orz,3,1
+Amto,amt,3,1
+Raji,rji,3,1
+Machinere,mpd,3,1
+Gobu,gox,3,1
+Nchumbulu,nlu,3,2
+Bogaya,boq,3,1
+West Central Banda,bbp,3,1
+Efutop,ofu,3,1
+Mbosi,mdw,3,1
+Lihir,lih,3,1
+Bacama,bcy,3,2
+Buruwai,asi,3,1
+Belanda Bor,bxb,3,2
+West Tarangan,txn,3,1
+Skou,skv,3,1
+Biafada,bif,3,1
+Dzùùngoo,dnn,3,2
+Narango,nrg,3,1
+Rajput Garasia,gra,3,1
+Klamath-Modoc,kla,3,1
+Orma,orc,3,2
+Befang,bby,3,2
+Dirasha,gdl,3,2
+Mudburra,dmw,3,1
+Tukang Besi North,khc,3,1
+Kuuku-Ya'u,kuy,3,1
+Pai Tavytera,pta,3,1
+Ngas,anc,3,2
+Maleu-Kilenge,mgl,3,1
+Abure,abu,3,2
+Voro,vor,3,2
+Mari (East Sepik Province),mbx,3,1
+Southern Roglai,rgs,3,1
+Solong,aaw,3,1
+Kanauji,bjj,3,66
+Futuna-Aniwa,fut,3,1
+Santiago Xanica Zapotec,zpr,3,1
+Sikkimese,sip,3,1
+Mbulungish,mbv,3,2
+Malfaxal,mlx,3,1
+Loja Highland Quichua,qvj,3,1
+North Ambrym,mmg,3,1
+Lavukaleve,lvk,3,1
+Cori,cry,3,2
+Holoholo,hoo,3,2
+Ogbia,ogb,3,2
+Sheko,she,3,2
+Zuojiang Zhuang,zzj,3,1
+Gola,gol,3,2
+Kwerba,kwe,3,1
+Ulau-Suain,svb,3,1
+Long Wat,ttw,3,1
+Langbashe,lna,3,1
+Kachari,xac,3,1
+Gende,gaf,3,1
+Mairasi,zrs,3,1
+Tilquiapan Zapotec,zts,3,1
+Pero,pip,3,2
+Chepang,cdm,3,1
+Arhuaco,arh,3,2
+Larteh,lar,3,2
+Tondano,tdn,3,1
+Dampelas,dms,3,1
+Cara,cfd,3,2
+Karawa,xrw,3,1
+Camling,rab,3,1
+Kinnauri,kfk,3,1
+Puroik,suv,3,1
+Surgujia,sgj,3,1
+Atong (India),aot,3,1
+Amal,aad,3,1
+Northwestern Kolami,kfb,3,1
+Pirahã,myp,3,1
+Kuturmi,khj,3,2
+Oko-Eni-Osayen,oks,3,1
+Gros Ventre,ats,3,1
+Ukaan,kcf,3,1
+Asho Chin,csh,3,1
+Achumawi,acv,3,1
+North Efate,llp,3,1
+Chochotec,coz,3,1
+Lusi,khl,3,1
+Tututepec Mixtec,mtu,3,1
+Ntomba,nto,3,2
+Tairuma,uar,3,1
+Bauchi,bsf,3,2
+Bo-Rukul,mae,3,1
+Kol (Bangladesh),ekl,3,1
+Gamale Kham,kgj,3,1
+Yawalapití,yaw,3,1
+Isthmus-Pajapan Nahuatl,nhp,3,1
+Yendang,ynq,3,2
+Tukang Besi South,bhq,3,1
+Bantawa,bap,3,1
+Mao Naga,nbi,3,1
+Nzanyi,nja,3,2
+Cia-Cia,cia,3,1
+Ibaloi,ibl,3,1
+Sherdukpen,sdp,3,1
+Hadza,hts,3,2
+Oroko,bdu,3,2
+Ngul,nlo,3,2
+Ubang,uba,3,2
+Yinbaw Karen,kvu,3,1
+Phake,phk,3,1
+Domari,rmt,3,1
+Bokyi,bky,3,2
+Ibani,iby,3,1
+Koluwawa,klx,3,1
+Kplang,kph,3,2
+Kulere,kul,3,2
+Gudu,gdu,3,2
+Beli (South Sudan),blm,3,2
+Lo-Toga,lht,3,1
+Mae,mme,3,1
+Jalkunan,bxl,3,1
+Kam,kdx,3,2
+Dibo,dio,3,2
+'Are'are,alu,3,1
+Kubi,kof,3,1
+Mambai,mcs,3,2
+Eastern Magar,mgp,3,1
+Lotha Naga,njh,3,1
+Siliput,mkc,3,1
+Mehek,nux,3,1
+Somrai,sor,3,2
+Kis,kis,3,1
+Nume,tgs,3,1
+Kulung (Nigeria),bbu,3,2
+Axamb,ahb,3,1
+Makayam,aup,3,1
+Kubu,kvb,3,1
+Soyaltepec Mazatec,vmp,3,1
+Northern Nago,xkb,3,2
+Southwest Palawano,plv,3,1
+Duvle,duv,3,1
+Atsam,cch,3,2
+Mengisa,mct,3,2
+Parenga,pcj,3,1
+Hlai,lic,3,1
+Algerian Saharan Arabic,aao,3,1
+Gbiri-Niragu,grh,3,2
+Kaxuiâna,kbb,3,1
+Borana-Arsi-Guji Oromo,gax,3,2
+Mbula-Bwazza,mbu,3,2
+Mwali Comorian,wlc,3,2
+Darmiya,drd,3,1
+Nalu,naj,3,2
+Belanda Viri,bvi,3,2
+Curripaco,kpc,3,1
+Old Spanish,osp,3,15
+East Yugur,yuy,3,1
+Kulisusu,vkl,3,1
+Waigali,wbk,3,1
+Libido,liq,3,2
+Chichimeca-Jonaz,pei,3,1
+Innu,moe,3,1
+Jungle Inga,inj,3,1
+San Baltazar Loxicha Zapotec,zpx,3,1
+Nzakambay,nzy,3,2
+Bhilali,bhi,3,1
+Etulo,utr,3,2
+Loxicha Zapotec,ztp,3,1
+Morouas,mrp,3,1
+Krisa,ksi,3,1
+Ambele,ael,3,2
+Sobei,sob,3,1
+Buru (Indonesia),mhs,3,1
+Dem,dem,3,1
+Western Meohang,raf,3,1
+Ak,akq,3,1
+Mortlockese,mrl,3,1
+Sunam,ssk,3,1
+Shanga,sho,3,1
+Korowai,khe,3,1
+Rathwi Bareli,bgd,3,1
+Temuan,tmw,3,1
+Chaudangsi,cdn,3,1
+Gabri,gab,3,2
+Oyda,oyd,3,1
+Palaka Senoufo,plr,3,1
+Big Nambas,nmb,3,1
+Coatlán Zapotec,zps,3,1
+Simbo,sbb,3,1
+Wolio,wlo,3,1
+Talise,tlr,3,1
+Wolani,wod,3,1
+Dumi,dus,3,1
+Cinda-Regi-Tiyal,cdr,3,2
+Kudiya,kfg,3,1
+Ngamambo,nbv,3,2
+Arigidi,aqg,3,2
+Mendankwe-Nkwen,mfd,3,2
+Ukpe-Bayobiri,ukp,3,2
+Chilcotin,clc,3,1
+Sa,sax,3,6
+Nyanga,nyj,3,1
+Modang,mxd,3,1
+Tengger,tes,3,1
+Mbere,mdt,3,2
+Sentani,set,3,1
+Bandi,bza,3,2
+Mbo (Cameroon),mbo,3,1
+Atohwaim,aqm,3,1
+Cua,cua,3,1
+Trió,tri,3,1
+Apma,app,3,1
+Nyankpa,yes,3,2
+Kamara,jmr,3,2
+Sedang,sed,3,1
+Mang,zng,3,1
+Téén,lor,3,2
+Abu,ado,3,1
+Burusu,bqr,3,1
+Kol (Papua New Guinea),kol,3,1
+Port Sandwich,psw,3,1
+Beng,nhb,3,2
+Chru,cje,3,1
+Wan,wan,3,2
+Dghwede,dgh,3,2
+Bainouk-Gunyuño,bab,3,2
+Yace,ekr,3,2
+Gbanziri,gbg,3,2
+Assangori,sjg,3,1
+Iyive,uiv,3,2
+Aiome,aki,3,1
+Groma,gro,3,1
+Zimakani,zik,3,1
+Kélé,keb,3,1
+Rumai Palaung,rbb,3,1
+Bali (Democratic Republic of Congo),bcp,3,2
+Aneityum,aty,3,1
+Semnani,smy,3,1
+Phoenician,phn,3,14
+Yintale Karen,kvy,3,1
+Thangal Naga,nki,3,1
+Anaang,anw,3,2
+Itonama,ito,3,1
+Sanaani Arabic,ayn,3,1
+Nipsan,nps,3,1
+Wawonii,wow,3,1
+Wetamut,wwo,3,1
+Degema,deg,3,2
+Sara Kaba Deme,kwg,3,2
+Kovai,kqb,3,1
+Ngbaka Ma'bo,nbm,3,2
+Geez,gez,3,8
+Kola,kvv,3,1
+Mru,mro,3,1
+Bhele,bhy,3,2
+Pendau,ums,3,1
+Barombi,bbi,3,1
+Puno Quechua,qxp,3,1
+Bamunka,bvm,3,2
+Bago-Kusuntu,bqg,3,2
+Badyara,pbp,3,2
+Kasiguranin,ksn,3,1
+Fas,fqs,3,1
+Kwama,kmq,3,2
+Yagwoia,ygw,3,1
+Bura-Pabir,bwr,3,2
+Ayiwo,nfl,3,1
+Tirmaga-Chai Suri,suq,3,1
+Pima Bajo,pia,3,1
+Yoke,yki,3,1
+Middle Irish (900-1200),mga,3,7
+Bangubangu,bnx,3,2
+Labo,mwi,3,1
+Vaagri Booli,vaa,3,1
+Nisga'a,ncg,3,1
+Rabha,rah,3,1
+Baibai,bbf,3,1
+Kasanga,ccj,3,1
+Kawe,kgb,3,1
+Turi,trd,3,1
+Zaniza Zapotec,zpw,3,1
+Bebeli,bek,3,1
+Yil,yll,3,1
+Maleng,pkt,3,1
+Cocopa,coc,3,1
+Hahon,hah,3,1
+Tlamacazapa Nahuatl,nuz,3,1
+Alege,alf,3,2
+Gagu,ggu,3,2
+Yankunytjatjara,kdd,3,1
+Itzá,itz,3,1
+Chara,cra,3,2
+Iaai,iai,3,1
+Kugu-Muminh,xmh,3,1
+Yaka (Democratic Republic of Congo),yaf,3,2
+Luna,luj,3,2
+Bakumpai,bkr,3,1
+Yau (Sandaun Province),yyu,3,1
+Jakun,jak,3,1
+Calderón Highland Quichua,qud,3,1
+Kachama-Ganjule,kcx,3,2
+Sangisari,sgr,3,1
+Iowa-Oto,iow,3,1
+Dusun Malang,duq,3,1
+Koho,kpm,3,1
+Ipulo,ass,3,2
+Nyali,nlj,3,2
+Biali,beh,3,7
+Hidatsa,hid,3,1
+Lokoya,lky,3,2
+Tiéfo,tiq,3,1
+Korwa,kfp,3,1
+Loloda,loa,3,1
+Lau,llu,3,1
+Letemboi,nms,3,1
+Bomboma,bws,3,1
+Matbat,xmt,3,1
+Miya,mkf,3,2
+Bau Bidayuh,sne,3,1
+Jaqaru,jqr,3,1
+Fembe,agl,3,1
+Laura,lur,3,1
+Ngelima,agh,3,2
+Yogad,yog,3,1
+Akpa,akf,3,1
+Inlaod Itneg,iti,3,1
+Central Berawan,zbc,3,1
+Prasuni,prn,3,1
+Masikoro Malagasy,msh,3,2
+Haisla,has,3,1
+Balangingi,sse,3,1
+Budza,bja,3,1
+Saisiyat,xsy,3,5
+Kamantan,kci,3,2
+Kabalai,kvf,3,2
+Kota (India),kfe,3,1
+Balti,bft,3,1
+Sou,sqq,3,1
+Shall-Zwall,sha,3,1
+Assiniboine,asb,3,1
+Pacoh,pac,3,1
+Saurashtra,saz,3,1
+Putai,mfl,3,2
+Kokola,kzn,3,1
+Matís,mpq,3,1
+Kaike,kzq,3,1
+Dandami Maria,daq,3,1
+Ayizo Gbe,ayb,3,2
+Irántxe,irn,3,1
+Bahing,bhj,3,1
+Mbelime,mql,3,2
+Dusun Deyah,dun,3,1
+Sikaiana,sky,3,1
+Mawchi,mke,3,1
+Kohistani Shina,plk,3,1
+Baham,bdw,3,1
+Pattani,lae,3,1
+Kibet,kie,3,2
+San Dionisio Del Mar Huave,hve,3,1
+Moken,mwt,3,1
+C'Lela,dri,3,2
+Southern Sierra Miwok,skd,3,1
+Hyolmo,scp,3,1
+Sawi,saw,3,1
+Tepinapa Chinantec,cte,3,1
+Ma'ya,slz,3,1
+Kilmeri,kih,3,1
+Auye,auu,3,1
+San Francisco Del Mar Huave,hue,3,1
+Merlav,mrm,3,1
+Yaqay,jaq,3,1
+Chambeali,cdh,3,1
+Pökoot,pko,3,2
+Luimbi,lum,3,1
+Iteri,itr,3,1
+Ciwogai,tgd,3,2
+Kobiana,kcj,3,1
+Bali (Nigeria),bcn,3,2
+East Limba,lma,3,2
+Ashe,ahs,3,2
+Pará Gavião,gvp,3,1
+Kwa,kwb,3,2
+Piaroa,pid,3,2
+Namia,nnm,3,1
+Tawang Monpa,twm,3,1
+Mangbetu,mdj,3,2
+Jicarilla Apache,apj,3,1
+Gimi (Eastern Highlands),gim,3,1
+Mboi,moi,3,2
+Nkutu,nkw,3,2
+Southwestern Fars,fay,3,1
+Konda,knd,3,1
+Duruwa,pci,3,1
+Siar-Lak,sjr,3,1
+Taman (Indonesia),tmn,3,1
+Karang,kzr,3,2
+Western Maninkakan,mlq,3,2
+Aighon,aix,3,1
+Havasupai-Walapai-Yavapai,yuf,3,1
+Izora,cbo,3,1
+Paipai,ppi,3,1
+Leco,lec,3,1
+Saho,ssy,3,2
+Bilua,blb,3,1
+Rawo,rwa,3,1
+Tocantins Asurini,asu,3,1
+Southern Tidung,itd,3,1
+Seta,stf,3,1
+Bagirmi,bmi,3,2
+Lopa,lop,3,2
+Bata,bta,3,1
+Tsaangi,tsa,3,1
+Bara Malagasy,bhr,3,3
+Dzao Min,bpn,3,1
+Abron,abr,3,2
+Lumbu,lup,3,1
+Humburi Senni Songhay,hmb,3,2
+Nde-Nsele-Nta,ndd,3,2
+Pa'a,pqa,3,2
+Burun,bdi,3,2
+Mahali,mjx,3,1
+Elseng,mrf,3,1
+Vincentian Creole English,svc,3,4
+Zayse-Zergulla,zay,3,2
+Marma,rmz,3,2
+Parauk,prk,3,66
+Dení,dny,3,1
+Dagaari Dioula,dgd,3,2
+Nduga,ndx,3,1
+Winyé,kst,3,1
+Indonesian Bajau,bdl,3,1
+Ngungwel,ngz,3,1
+Yekhee,ets,3,2
+Tewa (Indonesia),twe,3,1
+Jimi (Nigeria),jmi,3,1
+Kui (India),uki,3,1
+Gujari,gju,3,1
+Eastern Meohang,emg,3,1
+Bongu,bpu,3,1
+Yidgha,ydg,3,1
+Kamviri,xvi,3,1
+Mele-Fila,mxe,3,1
+Sanglechi,sgy,3,1
+Sa'ban,snv,3,1
+Brunei Bisaya,bsb,3,2
+Tembo (Kitembo),tbt,3,2
+Mor (Mor Islands),mhz,3,1
+Kela (Papua New Guinea),kcl,3,1
+Hatam,had,3,1
+Lamogai,lmg,3,1
+Dilling,dil,3,2
+Kari,kbj,3,2
+Southwestern Tlaxiaco Mixtec,meh,3,7
+Mangas,zns,3,2
+So (Democratic Republic of Congo),soc,3,1
+Buduma,bdm,3,2
+Yei,jei,3,1
+Dungmali,raa,3,1
+Dusun Witu,duw,3,1
+Alak,alk,3,1
+Raute,rau,3,1
+Tunia,tug,3,2
+Sacapulteco,quv,3,1
+Jere,jer,3,2
+Asuri,asr,3,1
+Gwak,jgk,3,2
+Chagatai,chg,3,1
+Southern Sama,ssb,3,1
+Eritai,ert,3,1
+Labu,lbu,3,1
+Sissano,sso,3,1
+Dime,dim,3,2
+Kung-Ekoka,knw,3,1
+Ribun,rir,3,1
+Warkay-Bipim,bgv,3,1
+Anong,nun,3,1
+Seget,sbg,3,1
+Eitiep,eit,3,1
+Parachi,prc,3,1
+Jeh,jeh,3,1
+Kpala,kpl,3,2
+Aeka,aez,3,1
+Halang,hal,3,1
+Kiowa,kio,3,1
+Murik (Papua New Guinea),mtf,3,1
+Northern Pumi,pmi,3,1
+Chicomuceltec,cob,3,1
+Shumcho,scu,3,1
+Tigak,tgc,3,1
+Maay,ymm,3,2
+Tsimihety Malagasy,xmw,3,1
+Hajong,haj,3,1
+Marghi Central,mrt,3,2
+Wutung,wut,3,1
+Arbore,arv,3,2
+Katla,kcr,3,2
+Wadjiginy,wdj,3,1
+Montol,mtl,3,1
+Suyá,suy,3,1
+Bade,bde,3,2
+Megam,mef,3,1
+Sandawe,sad,3,2
+Kpasam,pbn,3,2
+Keiyo,eyo,3,2
+Ormuri,oru,3,1
+Walak,wlw,3,1
+Quileute,qui,3,1
+Doga,dgg,3,1
+Sáliba,slc,3,1
+Basa (Nigeria),bzw,3,2
+Nuu-chah-nulth,nuk,3,1
+Ama (Sudan),nyi,3,3
+Saxwe Gbe,sxw,3,2
+Longuda,lnu,3,2
+Yaosakor Asmat,asy,3,1
+Pakaásnovos,pav,3,1
+Gwandara,gwn,3,2
+Siamou,sif,3,2
+Moronene,mqn,3,1
+Orejón,ore,3,1
+Mandjak,mfv,3,2
+Northern Tiwa,twf,3,1
+Yongnan Zhuang,zyn,3,1
+Ywom,gek,3,2
+Siang,sya,3,1
+Me'en,mym,3,2
+Tama (Chad),tma,3,2
+Tadaksahak,dsq,3,2
+Breri,brq,3,1
+Han,haa,3,1
+Bahinemo,bjh,3,1
+Kusaghe,ksg,3,1
+Dongxiang,sce,3,3
+Waja,wja,3,2
+Kerinci,kvr,3,1
+Kui (Indonesia),kvd,3,1
+Bwe Karen,bwe,3,1
+Selaru,slu,3,1
+Adang,adn,3,1
+Moi (Indonesia),mxn,3,1
+Bonerif,bnv,3,1
+Pare,ppt,3,1
+Vanimo,vam,3,1
+Jewish Babylonian Aramaic (ca. 200-1200 CE),tmr,3,15
+Nkoroo,nkx,3,1
+Doko-Uyanga,uya,3,2
+Kamayo,kyk,3,1
+Gaina,gcn,3,1
+Coatepec Nahuatl,naz,3,1
+Chala,cll,3,2
+Maria (India),mrr,3,1
+Jiongnai Bunu,pnu,3,1
+Lese,les,3,2
+Thulung,tdh,3,1
+Fernando Po Creole English,fpe,3,4
+Doka,dbi,3,2
+Nateni,ntm,3,7
+Harari,har,3,1
+Kwomtari,kwo,3,1
+Wusa Nasu,yig,3,1
+Ndam,ndm,3,2
+Luyana,lyn,3,2
+Tanudan Kalinga,kml,3,1
+Yotti,yot,3,1
+Xerénte,xer,3,1
+Tagakaulo,klg,3,1
+Dai,dij,3,1
+Oirata,oia,3,1
+Santa Inés Yatzechi Zapotec,zpn,3,1
+Klao,klu,3,2
+Tsoa,hio,3,2
+Iwam,iwm,3,1
+Paraujano,pbg,3,1
+Ginuman,gnm,3,1
+Tunjung,tjg,3,1
+Wabo,wbb,3,1
+Bo (Papua New Guinea),bpw,3,1
+Birwa,brl,3,1
+Tennet,tex,3,2
+Maklew,mgf,3,1
+Andoque,ano,3,1
+Hwana,hwo,3,2
+Bwa,bww,3,2
+Heiban,hbn,3,2
+Nengone,nen,3,1
+Amol,alx,3,1
+Krobu,kxb,3,2
+Duriankere,dbn,3,1
+Saya,say,3,3
+Segai,sge,3,1
+Nila,nil,3,1
+Rana Tharu,thr,3,1
+Hano,lml,3,1
+Wuding-Luquan Yi,ywq,3,1
+Western Parbate Kham,kjl,3,1
+Mawa (Chad),mcw,3,2
+Leipon,lek,3,1
+Chong,cog,3,1
+Gaddang,gad,3,1
+Gvoko,ngs,3,2
+Kete,kcv,3,2
+Heyo,auk,3,1
+Halbi,hlb,3,1
+Luopohe Hmong,hml,3,1
+ǁGana,gnk,3,2
+Dar Daju Daju,djc,3,1
+Lenkau,ler,3,1
+Huizhou Chinese,czh,3,1
+Mbum,mdd,3,2
+Fungwa,ula,3,2
+Kesawai,xes,3,1
+Pottangi Ollar Gadaba,gdb,3,1
+Kumbewaha,xks,3,1
+Koyaga,kga,3,2
+Che,ruk,3,2
+Gengle,geg,3,2
+Boikin,bzf,3,1
+Chaldean Neo-Aramaic,cld,3,1
+Zumbun,jmb,3,2
+Seke (Nepal),skj,3,1
+Bole,bol,3,2
+Ipiko,ipo,3,1
+Wannu,jub,3,2
+Akrukay,afi,3,1
+Ega,ega,3,2
+Bunun,bnn,3,6
+Afrihili,afh,3,6
+Southwest Pashai,psh,3,1
+Nancere,nnc,3,2
+Gbii,ggb,3,2
+Ati,atk,3,1
+Sauria Paharia,mjt,3,1
+Karekare,kai,3,2
+Mazatlán Mazatec,vmz,3,1
+Vano,vnk,3,1
+Ngala,nud,3,1
+Kaningdon-Nindem,kdp,3,3
+Daonda,dnd,3,1
+Dyan,dya,3,2
+Davawenyo,daw,3,1
+Silt'e,stv,3,2
+Aruá (Rodonia State),arx,3,1
+Comanche,com,3,1
+Gupa-Abawa,gpa,3,2
+Lakha,lkh,3,1
+Arawak,arw,3,1
+Tumleo,tmq,3,1
+Kelabit,kzi,3,1
+Krikati-Timbira,xri,3,1
+Bench,bcq,3,2
+Muong,mtq,3,1
+Mak (China),mkg,3,1
+Ngile,jle,3,2
+Laimbue,lmx,3,2
+Wara,wbf,3,2
+Taworta,tbp,3,1
+Jaunsari,jns,3,1
+Bragat,aof,3,1
+Valle Nacional Chinantec,cvn,3,1
+Otoro,otr,3,2
+Bada (Nigeria),bau,3,2
+Masadiit Itneg,tis,3,1
+Ombamba,mbm,3,1
+Central Asmat,cns,3,1
+Cahuilla,chl,3,1
+Lamaholot,slp,3,1
+Puragi,pru,3,1
+Churahi,cdj,3,1
+Babine,bcr,3,1
+Gula Iro,glj,3,2
+Joba,job,3,1
+Kap,ykm,3,1
+Eten,etx,3,1
+Southern Tiwa,tix,3,1
+Tippera,tpe,3,1
+Araki,akr,3,1
+Makah,myh,3,1
+Crow,cro,3,2
+Chiquián Ancash Quechua,qxa,3,1
+Daloa Bété,bev,3,2
+Nzakara,nzk,3,1
+Mal,mlf,3,1
+Balanta-Ganja,bjt,3,2
+Kurudu,kjr,3,1
+Sivandi,siy,3,1
+Samo,smq,3,1
+Takestani,tks,3,65
+Dewoin,dee,3,2
+Papel,pbo,3,2
+Lonwolwol,crc,3,1
+Pomo,pmm,3,2
+Omaha-Ponca,oma,3,1
+Aiton,aio,3,1
+Animere,anf,3,1
+Bosngun,bqs,3,1
+Bena (Nigeria),yun,3,1
+Pacific Gulf Yupik,ems,3,1
+Nokuku,nkk,3,1
+Putukwam,afe,3,2
+Bolon,bof,3,2
+Eruwa,erh,3,2
+Dom,doa,3,1
+Aruop,lsr,3,1
+Tocho,taz,3,2
+Sekani,sek,3,1
+Emerillon,eme,3,3
+Lyngngam,lyg,3,1
+Phu Thai,pht,3,1
+Kendem,kvm,3,2
+Loke,loy,3,1
+Dori'o,dor,3,1
+Ngamo,nbh,3,2
+Wapan,juk,3,2
+Guibei Zhuang,zgb,3,1
+Wamesa,wad,3,1
+Ede Ica,ica,3,2
+Nkoya,nka,3,3
+Besoa,bep,3,10
+Kela (Democratic Republic of Congo),kel,3,3
+Daakaka,bpa,3,1
+Kaduo,ktp,3,1
+Tai Dón,twh,3,1
+Shahmirzadi,srz,3,1
+Nnam,nbp,3,2
+Yaka (Central African Republic),axk,3,1
+Mursi,muz,3,2
+Pará Arára,aap,3,1
+Kibiri,prm,3,1
+Fuyug,fuy,3,1
+Tuscarora,tus,3,1
+Menominee,mez,3,1
+Tai Loi,tlq,3,1
+Sugut Dusun,kzs,3,1
+Malango,mln,3,1
+Mesaka,iyo,3,2
+Humla,hut,3,1
+Angal,age,3,1
+Mehináku,mmh,3,1
+Banaro,byz,3,1
+Kistane,gru,3,2
+Liberia Kpelle,xpe,3,3
+Sìcìté Sénoufo,sep,3,2
+Northwest Pashai,glh,3,1
+Vera'a,vra,3,1
+Foodo,fod,3,2
+Upper Tanana,tau,3,1
+Onobasulu,onn,3,1
+Varhadi-Nagpuri,vah,3,1
+Mainstream Kenyah,xkl,3,1
+Northeast Pashai,aee,3,1
+Jirel,jul,3,1
+Boma,boh,3,2
+Pano,mqz,3,1
+Tombonuo,txa,3,10
+Talieng,tdf,3,1
+Kirike,okr,3,1
+Khezha Naga,nkh,3,1
+Santa Inés Ahuatempan Popoloca,pca,3,1
+Bilba,bpz,3,1
+Eleme,elm,3,2
+Kenswei Nsei,ndb,3,2
+Ngad'a,nxg,3,1
+Pak-Tong,pkg,3,1
+Yeyi,yey,3,2
+Youjiang Zhuang,zyj,3,1
+Leyigha,ayi,3,1
+Mama,mma,3,2
+Kwaja,kdz,3,2
+Agatu,agc,3,2
+Sanga (Democratic Republic of Congo),sng,3,2
+Canichana,caz,3,1
+Kpan,kpk,3,2
+Bangala,bxg,3,2
+Chrau,crw,3,1
+Mayogo,mdm,3,2
+Firan,fir,3,2
+Lawangan,lbx,3,1
+Shekkacho,moy,3,1
+Kaska,kkz,3,1
+Shiki,gua,3,1
+Pa-Hng,pha,3,1
+Gadsup,gaj,3,1
+Benyadu',byd,3,1
+Dugun,ndu,3,2
+Sartang,onp,3,1
+Sokoro,sok,3,1
+Suruí,sru,3,1
+Tadyawan,tdy,3,1
+Baga Manduri,bmd,3,2
+Konni,kma,3,8
+Alago,ala,3,2
+North Fali,fll,3,2
+Buru (Nigeria),bqw,3,2
+Guruntum-Mbaaru,grd,3,2
+Moru,mgd,3,6
+Tira,tic,3,2
+Dwang,nnu,3,2
+Kodava,kfa,3,1
+Obanliku,bzy,3,2
+Elkei,elk,3,1
+Heiltsuk,hei,3,1
+Olu'bo,lul,3,2
+Wè Southern,gxx,3,3
+Wusi,wsi,3,1
+Durop,krp,3,1
+Mono (Solomon Islands),mte,3,1
+Hula,hul,3,1
+Jiamao,jio,3,1
+Sikaritai,tty,3,1
+Dorze,doz,3,2
+Idakho-Isukha-Tiriki,ida,3,2
+Kalabari,ijn,3,2
+Jawoyn,djn,3,1
+Kalispel-Pend d'Oreille,fla,3,1
+Yom,pil,3,2
+Nicaragua Creole English,bzk,3,4
+Papuma,ppm,3,1
+Mburku,bbt,3,2
+Honi,how,3,1
+Wersing,kvw,3,1
+Mualang,mtd,3,1
+Idi,idi,3,1
+Ari,aac,3,1
+Aheu,thm,3,1
+Khamti,kht,3,1
+Jewish Palestinian Aramaic,jpa,3,15
+Cibak,ckl,3,2
+Eshtehardi,esh,3,1
+Kamberau,irx,3,1
+Yoy,yoy,3,1
+Tuparí,tpr,3,1
+Akei,tsr,3,1
+Kabola,klz,3,1
+Mubami,tsx,3,1
+Birao,brr,3,1
+Tinani,lbf,3,1
+Korku,kfq,3,1
+Pattani Malay,mfa,3,2
+Libinza,liz,3,2
+Temascaltepec Nahuatl,nhv,3,1
+Legbo,agb,3,1
+Mpur,akc,3,1
+Judeo-Georgian,jge,3,1
+Wambule,wme,3,1
+Penchal,pek,3,1
+Nyore,nyd,3,2
+Karitiâna,ktn,3,1
+Yahadian,ner,3,1
+Thakali,ths,3,1
+Idu-Mishmi,clk,3,1
+Tado,klw,3,1
+Yemsa,jnj,3,2
+Canela,ram,3,1
+Sengele,szg,3,1
+Fa d'Ambu,fab,3,4
+Bahamas Creole English,bah,3,4
+Western Karaboro,kza,3,2
+Principense,pre,3,4
+Northern Gondi,gno,3,1
+Mamaindé,wmd,3,1
+Kombai,tyn,3,1
+Poke,pof,3,2
+Kembayan,xem,3,1
+Pear,pcb,3,1
+Nai,bio,3,1
+Gawar-Bati,gwt,3,1
+Saafi-Saafi,sav,3,2
+Spokane,spo,3,1
+Orang Seletar,ors,2,1
+Tiyaa,tyy,2,1
+Reli,rei,2,1
+Mazaltepec Zapotec,zpy,2,1
+Teressa,tef,2,1
+Jogi,jog,2,1
+Magbukun Ayta,ayt,2,1
+Chung,cnq,2,2
+Ge,hmj,2,1
+Agoi,ibm,2,1
+Southeastern Tarahumara,tcu,2,1
+Lower Ta'oih,tto,2,1
+Petapa Zapotec,zpe,2,1
+Auwe,smf,2,1
+Unggumi,xgu,2,1
+Angal Enen,aoe,2,1
+Dungra Bhil,duh,2,1
+Sansi,ssi,2,1
+San Pedro Quiatoni Zapotec,zpf,2,1
+Kapya,klo,2,2
+Sonde,shc,2,2
+Sininkere,skq,2,2
+Banao Itneg,bjx,2,1
+Kutto,kpa,2,2
+Powari,pwr,2,1
+Awu,yiu,2,1
+Koenoem,kcs,2,1
+Tongwe,tny,2,1
+Southern Alta,agy,2,1
+Anu-Hkongso Chin,anl,2,1
+Ruma,ruz,2,2
+Tamnim Citak,tml,2,1
+Pudtol Atta,atp,2,1
+Lombi,lmi,2,1
+Mer,mnu,2,1
+Pardhan,pch,2,1
+Betaf,bfe,2,1
+Maeng Itneg,itt,2,1
+Okpe (Northwestern Edo),okx,2,1
+Kanjari,kft,2,1
+Yauma,yax,2,1
+Kwesten,kwt,2,1
+Senthang Chin,sez,2,1
+Segeju,seg,2,2
+Eastern Nisu,nos,2,1
+Koro (India),jkr,2,1
+Sheshi Kham,kip,2,1
+Mirgan,zrg,2,1
+Keninjal,knl,2,1
+Kwami,ktf,2,2
+Gimme,kmp,2,2
+Gboloo Grebo,gec,2,2
+Somray,smu,2,1
+Tajuasohn,tja,2,2
+Lame,bma,2,2
+Mbati,mdn,2,1
+Kunyi,njx,2,2
+Kho'ini,xkc,2,1
+Zaachila Zapotec,ztx,2,1
+Varli,vav,2,1
+Atemble,ate,2,1
+Santa María La Alta Nahuatl,nhz,2,1
+Kadar,kej,2,1
+Bijori,bix,2,1
+Man Met,mml,2,1
+Kurmukar,kfv,2,1
+Umbrian,xum,2,2
+Tamazola Mixtec,vmx,2,1
+Kachok,xkk,2,1
+Bila,bip,2,2
+Zumaya,zuy,2,2
+Lapaguía-Guivini Zapotec,ztl,2,1
+Drents,drt,2,17
+Basa-Gurmana,buj,2,1
+Adiwasi Garasia,gas,2,1
+Mo'da,gbn,2,1
+Juxtlahuaca Mixtec,vmc,2,1
+Judeo-Iraqi Arabic,yhd,2,1
+Awun,aww,2,1
+Kaivi,kce,2,2
+Upper Ta'oih,tth,2,1
+Jandavra,jnd,2,1
+Sagalla,tga,2,1
+Pangwali,pgg,2,1
+Pyapun,pcw,2,2
+Dhanwar (Nepal),dhw,2,1
+Puebla Mazatec,pbm,2,1
+Southwestern Tepehuan,tla,2,1
+Kachi Koli,gjk,2,1
+Pannei,pnc,2,1
+Wayanad Chetti,ctt,2,1
+Goaria,gig,2,1
+Budu,buu,2,2
+Tukpa,tpq,2,1
+Yerukula,yeu,2,1
+Totomachapan Zapotec,zph,2,1
+Aranadan,aaf,2,1
+Jennu Kurumba,xuj,2,1
+Ogbogolo,ogg,2,1
+Loo,ldo,2,1
+Tawr Chin,tcp,2,1
+Kathoriya Tharu,tkt,2,1
+Kayaw,kvl,2,1
+Nyaw,nyw,2,1
+Chenchu,cde,2,1
+Yutanduchi Mixtec,mab,2,1
+Ososo,oso,2,2
+Small Flowery Miao,sfm,2,1
+Kon Keu,kkn,2,1
+Dzalakha,dzl,2,1
+Ambo,amb,2,2
+Kurichiya,kfh,2,1
+Jakati,jat,2,1
+Koro Nulu,vkn,2,2
+Aproumu Aizi,ahp,2,2
+Kayort,kyv,2,1
+Changthang,cna,2,1
+Tso,ldp,2,2
+Lumun,lmd,2,2
+Gbaya (Central African Republic),gba,2,1
+Sajau Basap,sjb,2,1
+Usui,usi,2,1
+Xwela Gbe,xwe,2,2
+Gbanu,gbv,2,1
+Tajiki Arabic,abh,2,1
+Kango (Bas-Uélé District),kty,2,2
+Shahrudi,shm,2,1
+Kantosi,xkt,2,2
+Waddar,wbq,2,1
+Khamyang,ksu,2,1
+Col,liw,2,1
+Sholaga,sle,2,1
+Urali,url,2,1
+Moyadan Itneg,ity,2,1
+Haigwai,hgw,2,1
+Tijaltepec Mixtec,xtl,2,1
+Wakde,wkd,2,1
+Kuvale,olu,2,2
+Kanan,zkn,2,1
+Gozarkhani,goz,2,1
+Rudbari,rdb,2,1
+Budeh Stieng,stt,2,1
+Eastern Hongshuihe Zhuang,zeh,2,1
+Huitepec Mixtec,mxs,2,1
+Halang Doan,hld,2,1
+Southern Ma'di,snm,2,2
+Gaa,ttb,2,2
+Punan Aput,pud,2,1
+Phai,prt,2,1
+Bijim,jbm,2,2
+Majhi,mjz,2,1
+Kalamsé,knz,2,2
+Dezfuli,def,2,1
+Badui,bac,2,1
+Pauri Bareli,bfb,2,1
+Pemon,aoc,2,1
+Lenyima,ldg,2,2
+Tavoyan,tvn,2,1
+Southern Lolopo,ysp,2,1
+Kunda,kdn,2,7
+Hema,nix,2,2
+Anus,auq,2,1
+Eastern Penan,pez,2,1
+Elotepec Zapotec,zte,2,1
+Tho,tou,2,1
+Sindhi Bhil,sbn,2,1
+us-Saare,uss,2,2
+Yakaikeke,ykk,2,1
+Mvuba,mxh,2,2
+Koki Naga,nxk,2,1
+Podena,pdn,2,1
+Southern Katang,sct,2,1
+Enwan (Edo State),env,2,1
+Koresh-e Rostam,okh,2,1
+Phana',phq,2,1
+Western Krahn,krw,2,2
+Saaroa,sxr,2,5
+Pardhi,pcl,2,1
+Baima,bqh,2,1
+Tembé,tqb,2,1
+Jad,jda,2,1
+Spiti Bhoti,spt,2,1
+Anii,blo,2,2
+Gowlan,goj,2,1
+Jwira-Pepesa,jwi,2,2
+Tofin Gbe,tfi,2,2
+Maiwala,mum,2,1
+Geji,gyz,2,2
+Yangum Dey,yde,2,1
+Villa Viciosa Agta,dyg,2,1
+Kwang,kvi,2,2
+Gamit,gbl,2,1
+Hmong Shua,hmz,2,1
+Yong,yno,2,1
+Mangbutu,mdk,2,2
+Glaro-Twabo,glr,2,1
+Samei,smh,2,1
+Rawat,jnl,2,1
+Lika,lik,2,1
+Thao,ssf,2,5
+Doghoro,dgx,2,1
+Malawi Lomwe,lon,2,7
+Ukwuani-Aboh-Ndoni,ukw,2,2
+Kavalan,ckv,2,5
+Salampasu,slx,2,2
+Reel,atu,2,2
+Southern Pumi,pmj,2,1
+Sirmauri,srx,2,1
+Harijan Kinnauri,kjo,2,1
+Andh,anr,2,1
+Mudhili Gadaba,gau,2,1
+Geser-Gorom,ges,2,1
+Chaura,crv,2,1
+El Alto Zapotec,zpp,2,1
+Mgbolizhia,gmz,2,1
+Sihuas Ancash Quechua,qws,2,1
+Busam,bxs,2,2
+Kotafon Gbe,kqk,2,1
+Nyamusa-Molo,nwm,2,2
+Buraka,bkg,2,2
+Konyanka Maninka,mku,2,2
+Tangko,tkx,2,1
+Balo,bqo,2,2
+Lalia,lal,2,1
+Loarki,lrk,2,1
+Ache,yif,2,1
+Western Magar,mrd,2,1
+Dehwari,deh,2,1
+Tangchangya,tnv,2,1
+Khisa,kqm,2,2
+San Juan Teita Mixtec,xtj,2,1
+Bongili,bui,2,2
+Jakattoe,jrt,2,1
+Lubila,kcc,2,2
+Phrae Pwo Karen,kjt,2,1
+Bazigar,bfr,2,1
+Kalaktang Monpa,kkf,2,1
+Yuqui,yuq,2,1
+Likwala,kwc,2,2
+Kambaira,kyy,2,1
+Wasa,wss,2,2
+Maa,cma,2,1
+Paliyan,pcf,2,1
+Dakpakha,dka,2,1
+Mono (USA),mnr,2,5
+Kushi,kuh,2,1
+Central Melanau,mel,2,65
+Nanti,cox,2,1
+Yucuañe Mixtec,mvg,2,1
+Bauria,bge,2,1
+Vumbu,vum,2,2
+Western Mashan Hmong,hmw,2,1
+Gowli,gok,2,1
+Mikasuki,mik,2,1
+Itelmen,itl,2,1
+Akyaung Ari Naga,nqy,2,1
+Forest Enets,enf,2,1
+Chakavian,ckm,2,1
+Chigmecatitlán Mixtec,mii,2,1
+Saba,saa,2,1
+Kinuku,kkd,2,1
+Mannan,mjv,2,1
+Bharia,bha,2,1
+Kholok,ktc,2,2
+Lufu,ldq,2,2
+Mid-Southern Banda,bjo,2,1
+Sinicahua Mixtec,xti,2,1
+Mazagway,dkx,2,2
+Bhalay,bhx,2,1
+Bhatri,bgw,2,1
+Vono,kch,2,2
+Makhuwa-Saka,xsq,2,2
+Upper Taromi,tov,2,1
+Western Xwla Gbe,xwl,2,2
+Baangi,bqx,2,2
+Laitu Chin,clj,2,1
+Eastern Parbate Kham,kif,2,1
+Nisa,njs,2,1
+Zangskari,zau,2,1
+Bukwen,buz,2,2
+Ubaghara,byc,2,2
+Tlacolulita Zapotec,zpk,2,1
+Phuie,pug,2,2
+Gbaya-Bossangoa,gbp,2,1
+Southern Ghale,ghe,2,2
+Kyak,bka,2,2
+Nupbikha,npb,2,1
+Sara,sre,2,1
+Dubli,dub,2,1
+Doondo,dde,2,2
+Tchumbuli,bqa,2,2
+Kanikkaran,kev,2,1
+Brazilian Sign Language,bzs,2,14
+Mituku,zmq,2,1
+Southern Grebo,grj,2,2
+Toposa,toq,2,2
+Texcatepec Otomi,otx,2,1
+Nomane,nof,2,1
+Seberuang,sbx,2,1
+Miqie,yiq,2,1
+Tiemacèwè Bozo,boo,2,2
+Bure,bvh,2,2
+Dhodia,dho,2,1
+Severn Ojibwa,ojs,2,1
+Uzekwe,eze,2,1
+Defi Gbe,gbh,2,2
+Anyin Morofo,mtb,2,2
+Kono (Guinea),knu,2,2
+Mycenaean Greek,gmy,2,1
+Gwamhi-Wuri,bga,2,2
+Maraghei,vmh,2,1
+Maxi Gbe,mxl,2,2
+Kumarbhag Paharia,kmj,2,1
+Ir,irr,2,1
+Emberá-Chamí,cmi,2,1
+Thai Song,soa,2,1
+Woods Cree,cwd,2,1
+Nyam,nmi,2,2
+Northwest Oaxaca Mixtec,mxa,2,1
+Bote-Majhi,bmj,2,1
+Songo,soo,2,1
+Southeastern Ixtlán Zapotec,zpd,2,2
+Erromintxela,emx,2,1
+Kota Bangun Kutai Malay,mqg,2,1
+Sonha,soi,2,1
+Mala (Nigeria),ruy,2,2
+Agariya,agi,2,1
+Cakfem-Mushere,cky,2,2
+Bina (Nigeria),byj,2,2
+Razajerdi,rat,2,1
+Byep,mkk,2,2
+Kupia,key,2,1
+Tumi,kku,2,2
+Kajali,xkj,2,1
+Marachi,lri,2,2
+Lahul Lohar,lhl,2,1
+Kaikadi,kep,2,1
+Ixtayutla Mixtec,vmj,2,1
+Faire Atta,azt,2,1
+Nyindu,nyg,2,2
+Southwestern Tarahumara,twr,2,1
+Jahanka,jad,2,2
+Kugama,kow,2,2
+Mal Paharia,mkb,2,1
+Kono (Nigeria),klk,2,2
+Long Phuri Naga,lpn,2,1
+Dewas Rai,dwz,2,1
+Oraon Sadri,sdr,2,1
+Parkari Koli,kvx,2,1
+Mak (Nigeria),pbl,2,8
+Sanga (Nigeria),xsn,2,2
+Isekiri,its,2,3
+Ngwaba,ngw,2,2
+Mbesa,zms,2,2
+Khengkha,xkf,2,1
+Marama,lrm,2,2
+Etchemin,etc,2,1
+Southwestern Guiyang Hmong,hmg,2,1
+Aguna,aug,2,2
+Likuba,kxx,2,2
+Chocangacakha,cgk,2,1
+Tobanga,tng,2,2
+Azhe,yiz,2,1
+Western Lalu,ywl,2,1
+Dongotono,ddd,2,1
+Cao Miao,cov,2,1
+Kolibugan Subanon,skn,2,1
+Northern Toussian,tsp,2,2
+Makuráp,mpu,2,1
+Jadgali,jdg,2,1
+Horned Miao,hrm,2,1
+Gurgula,ggg,2,1
+Kumhali,kra,2,1
+Lipo,lpo,2,1
+North Nuaulu,nni,2,1
+Tacahua Mixtec,xtt,2,1
+Côông,cnc,2,1
+Cutchi-Swahili,ccl,2,2
+Akolet,akt,2,1
+Tala,tak,2,2
+Sapo,krn,2,2
+Lele (Democratic Republic of Congo),lel,2,2
+Southeastern Pomo,pom,2,1
+Dungu,dbv,2,2
+Dhanki,dhn,2,1
+Makuri Naga,jmn,2,1
+Makwe,ymk,2,2
+Nasal,nsy,2,7
+Kanakanabu,xnb,2,5
+Sri Lankan Creole Malay,sci,2,2
+Mboko,mdu,2,2
+Chinali,cih,2,1
+Bukit Malay,bvu,2,1
+Western Tunebo,tnb,2,1
+Dengese,dez,2,2
+Buyuan Jinuo,jiy,2,1
+Panawa,pwb,2,2
+Katkari,kfu,2,1
+Basa-Gumna,bsl,2,1
+Kamo,kcq,2,2
+Wudu,wud,2,2
+Barclayville Grebo,gry,2,2
+Osatu,ost,2,2
+Buksa,tkb,2,1
+Eastern Egyptian Bedawi Arabic,avl,2,1
+Balinese Malay,mhp,2,1
+Nteng,nqt,2,1
+Acheron,acz,2,2
+Central Awyu,awu,2,1
+Naaba,nao,2,1
+Butbut Kalinga,kyb,2,1
+Las Delicias Zapotec,zcd,2,1
+Sara Kaba,sbz,2,2
+Lautu Chin,clt,2,1
+Pahari-Potwari,phr,2,1
+Bhoti Kinnauri,nes,2,1
+Jangkang,djo,2,1
+Western Muria,mut,2,1
+Kavet,krv,2,1
+Bu (Bauchi State),zbu,2,2
+Lhokpu,lhp,2,1
+Chodri,cdi,2,1
+Bauni,bpe,2,1
+Weme Gbe,wem,2,2
+Ninia Yali,nlk,2,1
+Baybayanon,bvy,2,9
+Ghera,ghr,2,1
+Daho-Doo,das,2,2
+Balkan Gagauz Turkish,bgx,2,1
+Likila,lie,2,1
+Kurtokha,xkz,2,1
+Piya-Kwonci,piy,2,2
+Mullu Kurumba,kpb,2,1
+Uisai,uis,2,1
+Saweru,swr,2,1
+Makhuwa-Marrevone,xmc,2,2
+Kwandu,xdo,2,2
+Hinduri,hii,2,1
+Ci Gbe,cib,2,2
+Tlazoyaltepec Mixtec,mqh,2,1
+Keder,kdy,2,1
+Ontenu,ont,2,1
+Central Grebo,grv,2,2
+Rishiwa,rsw,1,2
+Colombian Sign Language,csn,1,4
+Zeem,zem,1,2
+Argentine Sign Language,aed,1,4
+Chilean Sign Language,csg,1,3
+Peruvian Sign Language,prl,1,3
+Venezuelan Sign Language,vsl,1,2
+Finnish Sign Language,fse,1,3
+Malasar,ymr,1,11
+Mexican Sign Language,mfs,1,3
