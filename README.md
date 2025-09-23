@@ -1,4 +1,4 @@
-# Dig_hum_sum---AI-and-small-african-languages
+# AI-and-small-african-languages
 
 This repository contains the code written to analyze linguistic representation on Huggingface for the Student project "AI and small African languages" as part of the summer school on Digital Humanism in Vienna 2025.
 
